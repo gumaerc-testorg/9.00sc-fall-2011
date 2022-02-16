@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Memory II: Amnesia and Memory Systems'
+parent_type: CourseSection
 parent_uid: 09f6f277-0863-76d7-7bf9-7f807f53d99f
 title: 'Discussion: Memory'
 uid: f532f8a4-70da-048e-aaf5-8954f43c338e

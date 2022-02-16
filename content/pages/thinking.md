@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Thinking
 uid: 13877f0d-e096-cd97-097b-21b89a257f99
 ---

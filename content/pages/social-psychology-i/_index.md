@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Social Psychology I
 uid: ccc3861a-7d57-ad0a-f405-18e6fb5674e7
 ---

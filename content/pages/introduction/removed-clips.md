@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Introduction
+parent_type: CourseSection
 parent_uid: c5c3533b-2688-5392-8ef7-cf5bea62d6a4
 title: 'Removed Clips for Video Lecture 1: Introduction'
 uid: ef50431b-7ada-1984-07fc-7bb448203a5e

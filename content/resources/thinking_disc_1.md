@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a MP3 file for thinking and intelligence.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-00sc-introduction-to-psychology-fall-2011/a672bbc6aedf45a274e727d3f7442dad_thinking_disc_1.mp3
+file: /media/courses/9-00sc-introduction-to-psychology-fall-2011/a672bbc6aedf45a274e727d3f7442dad_thinking_disc_1.mp3
 file_type: audio/mpeg
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Discussion: Thinking & Intelligence'
+parent_type: CourseSection
 resourcetype: Other
 title: thinking_disc_1.mp3
 uid: a672bbc6-aedf-45a2-74e7-27d3f7442dad

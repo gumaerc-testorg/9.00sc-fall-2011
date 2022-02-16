@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-00sc-introduction-to-psychology-fall-2011/a3dea65382d950df9bc7c6ae503685d5_t73rjeOj0eY.vtt
+file: /media/courses/9-00sc-introduction-to-psychology-fall-2011/a3dea65382d950df9bc7c6ae503685d5_t73rjeOj0eY.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: a3dea653-82d9-50df-9bc7-c6ae503685d5

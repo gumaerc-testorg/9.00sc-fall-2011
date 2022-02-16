@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Attention
 uid: ddb63dde-65ae-0e9b-a26c-599b321fc842
 ---

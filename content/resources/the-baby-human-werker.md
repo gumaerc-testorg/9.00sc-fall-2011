@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Removed Clips for Video Lecture 12: Language'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Baby Human - Werker
 uid: 86346f46-3459-e0f6-3072-eafdc332006d

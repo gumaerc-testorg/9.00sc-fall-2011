@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Removed Clips for Video Lecture 22: Social Psychology I'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Removed Clip 1: Face the Rear'
 uid: ab69d98f-85c9-837e-92b2-15b7849c8641

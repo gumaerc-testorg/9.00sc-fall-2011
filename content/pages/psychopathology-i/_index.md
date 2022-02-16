@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Psychopathology I
 uid: 3d51e6ac-e4c7-aca1-640b-d0dc09600b04
 ---

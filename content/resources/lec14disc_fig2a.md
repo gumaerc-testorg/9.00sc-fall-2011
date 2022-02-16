@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-00sc-introduction-to-psychology-fall-2011/15304ce3a834115e43f5fcee69e7a65f_lec14disc_Fig2a.jpg
+file: /media/courses/9-00sc-introduction-to-psychology-fall-2011/15304ce3a834115e43f5fcee69e7a65f_lec14disc_Fig2a.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Diagram of two L shapes, one rotated just a few degrees from the other.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Discussion: Thinking & Intelligence'
+parent_type: CourseSection
 resourcetype: Image
 title: lec14disc_Fig2a.jpg
 uid: 15304ce3-a834-115e-43f5-fcee69e7a65f

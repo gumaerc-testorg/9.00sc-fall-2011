@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Language
+parent_type: CourseSection
 parent_uid: 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf
 title: 'Discussion: Language'
 uid: a024ee23-8c4f-fa34-78d4-a55e94731f03

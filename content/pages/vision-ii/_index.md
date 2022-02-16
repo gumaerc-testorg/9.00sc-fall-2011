@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Vision II
 uid: 1a9cef0b-4270-5f26-8826-24e84aceb1db
 ---

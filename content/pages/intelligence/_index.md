@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Intelligence
 uid: 6d9b0bff-490c-c5ef-5d14-755460c9afd0
 ---

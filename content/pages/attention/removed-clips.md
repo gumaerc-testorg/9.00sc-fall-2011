@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Attention
+parent_type: CourseSection
 parent_uid: ddb63dde-65ae-0e9b-a26c-599b321fc842
 title: 'Removed Clips for Video Lecture 7: Attention'
 uid: 124ac5c1-a2d2-3e62-425c-1b6dd9fc2931

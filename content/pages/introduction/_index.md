@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Introduction
 uid: c5c3533b-2688-5392-8ef7-cf5bea62d6a4
 ---

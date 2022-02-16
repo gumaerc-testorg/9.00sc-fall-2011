@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Brain I: Structure and Functions'
 uid: bed1d5fc-a69c-1587-2254-555a74b510d1
 ---

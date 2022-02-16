@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Emotion & Motivation
+parent_type: CourseSection
 parent_uid: b4449121-7bca-c751-42a3-a4cbf60a35fa
 title: 'Discussion: Emotion'
 uid: 8f18b72f-2e72-4645-1a9f-00323d721732

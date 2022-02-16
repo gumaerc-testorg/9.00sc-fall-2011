@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Removed Clips for Video Lecture 12: Language'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Wernickes Aphasia
 uid: 5c893d01-116f-cdd7-64d2-18325ba4fe0d

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Stress
 uid: 7c2c180c-bd50-5e62-bbf0-62d2d4926cae
 ---
@@ -146,7 +148,7 @@ Book that Prof. Gabrieli recommends in class
 Participate in research
 {{< tdclose >}}
 {{< tdopen >}}
-Project Implicit® Implicit Association Tests, [http://implicit.harvard.edu/](http://implicit.harvard.edu/).
+Project Implicit{{< sup "®" >}} Implicit Association Tests, [http://implicit.harvard.edu/](http://implicit.harvard.edu/).
 {{< tdclose >}}
 {{< tdopen >}}
 Educational resource and research site for investigations in implicit social cognition, including more demonstrations and opportunities to participate in ongoing research.

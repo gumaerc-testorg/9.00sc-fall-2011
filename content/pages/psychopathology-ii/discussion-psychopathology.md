@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Psychopathology II
+parent_type: CourseSection
 parent_uid: efd8e956-049b-f53f-d560-dda29527618d
 title: 'Discussion: Psychopathology'
 uid: db9d439e-16c2-6213-258d-67445f064505

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Social Psychology II
+parent_type: CourseSection
 parent_uid: 25a2c26c-7f10-9797-3af3-7971963c5415
 title: 'Discussion: Social Psychology'
 uid: 77c8fc5b-e4ad-5423-475a-195d788a8976
@@ -26,7 +29,7 @@ Social psychology is a broad field that asks questions such as:
 Demonstration
 -------------
 
-The Implicit Association Test (IAT) is a measure of the automatic association between two concepts. When two concepts are associated, it's easy to give the same response to examples of two related concepts, such as _flower_ and _pleasant_. When two concepts are not associated (such as _insect_ and _pleasant_), it's more difficult to give the same response. The best way to understand the IAT is to try it for yourself, for example at [Project Implicit®](https://implicit.harvard.edu/implicit/demo/).
+The Implicit Association Test (IAT) is a measure of the automatic association between two concepts. When two concepts are associated, it's easy to give the same response to examples of two related concepts, such as _flower_ and _pleasant_. When two concepts are not associated (such as _insect_ and _pleasant_), it's more difficult to give the same response. The best way to understand the IAT is to try it for yourself, for example at [Project Implicit{{< sup "®" >}}](https://implicit.harvard.edu/implicit/demo/).
 
 The IAT has been widely used to study implicit biases for race, age, gender roles, and other social constructs, but it's not without its critics. Most obviously, people who take the IAT and are told that they have a bias against one race or one gender often protest that they do not. "What do you mean?" they say, "I don't believe that men should work and women should stay home! I know plenty of women who work, and I totally respect a man's choice to stay home. This test is not measuring my beliefs." What reasoning might psychologists use to counter this argument?
 

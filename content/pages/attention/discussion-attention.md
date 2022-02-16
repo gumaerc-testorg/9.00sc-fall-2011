@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Attention
+parent_type: CourseSection
 parent_uid: ddb63dde-65ae-0e9b-a26c-599b321fc842
 title: 'Discussion: Attention'
 uid: 69560261-47e9-87b2-11c7-d60818b3adcf

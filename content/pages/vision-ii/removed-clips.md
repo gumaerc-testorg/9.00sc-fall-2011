@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Vision II
+parent_type: CourseSection
 parent_uid: 1a9cef0b-4270-5f26-8826-24e84aceb1db
 title: 'Removed Clips for Video Lecture 6: Vision II'
 uid: 9d011dba-a0a1-f07a-cac3-4553f20ecbe2

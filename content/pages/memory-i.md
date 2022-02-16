@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Memory I
 uid: 3f7aca32-309e-ae8c-98f0-cbd01eab2677
 ---

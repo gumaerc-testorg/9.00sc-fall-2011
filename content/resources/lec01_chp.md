@@ -1,13 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-00sc-introduction-to-psychology-fall-2011/8b5e8f78970f3f7c1f2cf23822fbb08b_lec01_chp.jpg
+file: /media/courses/9-00sc-introduction-to-psychology-fall-2011/8b5e8f78970f3f7c1f2cf23822fbb08b_lec01_chp.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: Public domain.
   image-alt: Optical illusion of white grid on black background, with apparent flashing
     black dots in the grid crossings.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Introduction
+parent_type: CourseSection
 resourcetype: Image
 title: lec01_chp.jpg
 uid: 8b5e8f78-970f-3f7c-1f2c-f23822fbb08b

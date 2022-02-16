@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-00sc-introduction-to-psychology-fall-2011/899ed9c106f1ac8180b2af45639e1a7e_lec14disc_Fig1.jpg
+file: /media/courses/9-00sc-introduction-to-psychology-fall-2011/899ed9c106f1ac8180b2af45639e1a7e_lec14disc_Fig1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Diagram with two pairs of 3D block patterns in different rotations
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Discussion: Thinking & Intelligence'
+parent_type: CourseSection
 resourcetype: Image
 title: lec14disc_Fig1.jpg
 uid: 899ed9c1-06f1-ac81-80b2-af45639e1a7e

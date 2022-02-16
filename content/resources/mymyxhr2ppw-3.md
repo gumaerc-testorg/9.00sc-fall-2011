@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-00sc-introduction-to-psychology-fall-2011/d54858eadcb3aef1034c466d6a4e7ed2_MYMYXhR2Ppw.pdf
+file: /media/courses/9-00sc-introduction-to-psychology-fall-2011/d54858eadcb3aef1034c466d6a4e7ed2_MYMYXhR2Ppw.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: d54858ea-dcb3-aef1-034c-466d6a4e7ed2

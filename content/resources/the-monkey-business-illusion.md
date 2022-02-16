@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Removed Clips for Video Lecture 7: Attention'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Monkey Business Illusion
 uid: 4f11917a-7ec6-73c2-f2bb-53c2470caf21

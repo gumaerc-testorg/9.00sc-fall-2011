@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-00sc-introduction-to-psychology-fall-2011/0dac5d87794f96da7cd63cfcbdc30ede_9.00sc-lec22-socpsy1.jpg
+file: /media/courses/9-00sc-introduction-to-psychology-fall-2011/0dac5d87794f96da7cd63cfcbdc30ede_9.00sc-lec22-socpsy1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Social Psychology I
+parent_type: CourseSection
 resourcetype: Image
 title: 9.00sc-lec22-socpsy1.jpg
 uid: 0dac5d87-794f-96da-7cd6-3cfcbdc30ede

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Removed Clips for Video Lecture 17: Child Development'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: How Infants Learn Dr Renee Baillargeon
 uid: d4a30b4c-eb1a-1ca4-1ac8-b2141fefdbdc

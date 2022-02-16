@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Psychopathology II
+parent_type: CourseSection
 parent_uid: efd8e956-049b-f53f-d560-dda29527618d
 title: 'Removed Clips for Video Lecture 21: Psychopathology II'
 uid: 15be920d-790c-1252-7553-74642bbdef8c

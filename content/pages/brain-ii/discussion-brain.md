@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Brain II: Methods of Research'
+parent_type: CourseSection
 parent_uid: 6026acd4-95f8-e039-d1e8-11a66efa90b3
 title: 'Discussion: Brain'
 uid: ff6b4a3e-07ac-3e8b-b88b-bbf06269fda2

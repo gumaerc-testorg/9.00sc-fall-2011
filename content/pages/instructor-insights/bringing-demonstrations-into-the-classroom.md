@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: b4984c35-7427-1ba3-965f-29e67252d227
 title: Bringing Demonstrations into the Classroom
 uid: af850264-7197-6cae-0c8d-72f135ef0d30
