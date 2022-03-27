@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Discussion: Thinking & Intelligence'
 parent_type: CourseSection
+parent_uid: 05a68009-c3c6-23d2-a788-f8858b6ebf30
 resourcetype: Other
 title: thinking_disc_2.mp3
 uid: 5c6a4582-dce0-08b8-a714-408f21413264

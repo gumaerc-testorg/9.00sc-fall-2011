@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Brain II: Methods of Research'
 parent_type: CourseSection
+parent_uid: 6026acd4-95f8-e039-d1e8-11a66efa90b3
 resourcetype: Image
 title: lec04_chp.jpg
 uid: ac4d4ddb-9e8d-b4f0-b735-6040cec313e2

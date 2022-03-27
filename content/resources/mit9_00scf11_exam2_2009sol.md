@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exam 2
 parent_type: CourseSection
+parent_uid: 6ec4e85f-0538-52ee-6466-8ad78b65ec3a
 resourcetype: Document
 title: MIT9_00SCF11_exam2_2009sol.pdf
 uid: fa63e525-f4e3-8585-5930-031652f20dde

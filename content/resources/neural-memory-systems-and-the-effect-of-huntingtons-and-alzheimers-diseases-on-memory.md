@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Neural Memory Systems and the Effect of Huntington's and Alzheimer's Diseases
   on Memory
 uid: ff327885-92e5-88cf-0ece-c2d78ff865e7

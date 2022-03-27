@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Memory II: Amnesia and Memory Systems'
 parent_type: CourseSection
+parent_uid: 09f6f277-0863-76d7-7bf9-7f807f53d99f
 resourcetype: Image
 title: 9.00sc-lec11-mem2.jpg
 uid: 8762e033-f062-4288-e898-9810f5d90f90

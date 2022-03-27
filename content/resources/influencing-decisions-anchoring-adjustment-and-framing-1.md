@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Influencing Decisions: Anchoring, Adjustment, and Framing'
 uid: 59750a3c-7b1d-c503-d221-073cffd526a1
 video_files:

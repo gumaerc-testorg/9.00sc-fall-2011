@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Science & Research
 parent_type: CourseSection
+parent_uid: c4fbf121-480b-0561-6896-19683bc576cf
 resourcetype: Image
 title: lec02_chp.jpg
 uid: 944e8f93-3a52-055b-5fe3-a6506ee322d9

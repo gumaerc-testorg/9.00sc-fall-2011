@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Psychopathology II
 parent_type: CourseSection
+parent_uid: efd8e956-049b-f53f-d560-dda29527618d
 resourcetype: Document
 title: MIT9_00SCF11_lec21_psych2.pdf
 uid: 5f13d32d-3056-dd1e-f9e0-97499e487464

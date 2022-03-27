@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Discussion: Vision'
 parent_type: CourseSection
+parent_uid: efa61a0f-c3f3-31be-4614-e94ca3ee9a1a
 resourcetype: Image
 title: Color-Blindness.jpg
 uid: 8cb55770-af65-6f2a-b379-1779368e88cb

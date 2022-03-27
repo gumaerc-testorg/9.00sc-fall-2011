@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Consciousness
 parent_type: CourseSection
+parent_uid: 504a0556-a3d6-731e-b23a-dd60493cf4d4
 resourcetype: Document
 title: MIT9_00SCF11_lec08_consc.pdf
 uid: 2211e245-2a9b-c47a-fce5-b7a2179e4083

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Personality
 parent_type: CourseSection
+parent_uid: 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21
 resourcetype: Document
 title: MIT9_00SCF11_lec16_person.pdf
 uid: 4da7db14-0609-4228-4ec2-1f32709f01b9

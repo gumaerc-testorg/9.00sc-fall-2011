@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Learning
 parent_type: CourseSection
+parent_uid: ac69f1eb-8793-b39a-98cb-15527df3770a
 resourcetype: Document
 title: MIT9_00SCF11_read_kr4.pdf
 uid: 33a99595-e42e-8173-c805-09553eb52a8c

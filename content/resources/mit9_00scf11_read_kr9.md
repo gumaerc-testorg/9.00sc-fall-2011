@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Child Development
 parent_type: CourseSection
+parent_uid: 997bafe5-99f3-c3e0-e5a8-007934413597
 resourcetype: Document
 title: MIT9_00SCF11_read_kr9.pdf
 uid: 3d126a0f-54a6-443c-15ac-0677f614aeee

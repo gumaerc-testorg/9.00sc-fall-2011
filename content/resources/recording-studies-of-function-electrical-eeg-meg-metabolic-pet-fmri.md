@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recording Studies of Function: Electrical (EEG, MEG) & Metabolic (PET, fMRI)'
 uid: 208e1f3a-a3ae-b14d-ed27-9fc9c3c93896
 video_files:

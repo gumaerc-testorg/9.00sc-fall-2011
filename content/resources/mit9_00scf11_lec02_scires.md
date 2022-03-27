@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Science & Research
 parent_type: CourseSection
+parent_uid: c4fbf121-480b-0561-6896-19683bc576cf
 resourcetype: Document
 title: MIT9_00SCF11_lec02_scires.pdf
 uid: 5ff7eb67-85f0-5757-99a6-5af146ea17d2

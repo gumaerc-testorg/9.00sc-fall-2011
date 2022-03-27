@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Vision I
 parent_type: CourseSection
+parent_uid: 6006b7d1-2269-c4a2-b231-88660361c816
 resourcetype: Image
 title: lec05_chp.jpg
 uid: f464a2c8-0ae3-afc4-b8cf-abc27e724b06

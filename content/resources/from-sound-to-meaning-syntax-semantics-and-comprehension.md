@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'From Sound to Meaning: Syntax, Semantics, and Comprehension'
 uid: 67d53cd0-a2a4-31e4-01d6-61d244fc63c5
 video_files:

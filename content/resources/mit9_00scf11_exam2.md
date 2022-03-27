@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exam 2
 parent_type: CourseSection
+parent_uid: 6ec4e85f-0538-52ee-6466-8ad78b65ec3a
 resourcetype: Document
 title: MIT9_00SCF11_exam2.pdf
 uid: 1cb6b9c6-044b-bc45-708b-ac6ef370971a

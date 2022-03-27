@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Psychopathology II
 parent_type: CourseSection
+parent_uid: efd8e956-049b-f53f-d560-dda29527618d
 resourcetype: Document
 title: MIT9_00SCF11_read_kr12.pdf
 uid: 20365c6d-91a9-c142-362e-31bf28a8d7ea

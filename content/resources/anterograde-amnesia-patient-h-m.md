@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Anterograde Amnesia: Patient H.M. and the Role of the Hippocampus in Memory
   Formation'
 uid: 44ba5623-9050-5159-b45b-b502153c9887

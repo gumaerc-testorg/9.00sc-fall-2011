@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Conclusions: Evolutionary Psychology, Happiness'
 parent_type: CourseSection
+parent_uid: 28acc476-566c-2161-f7cb-e0af48ee5d80
 resourcetype: Document
 title: MIT9_00SCF11_lec24.pdf
 uid: 71010302-8427-f017-f055-653147250c96

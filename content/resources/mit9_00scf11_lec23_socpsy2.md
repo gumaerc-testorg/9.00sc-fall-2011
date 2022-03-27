@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Social Psychology II
 parent_type: CourseSection
+parent_uid: 25a2c26c-7f10-9797-3af3-7971963c5415
 resourcetype: Document
 title: MIT9_00SCF11_lec23_socpsy2.pdf
 uid: 17bb1e44-2ad6-98a1-0e61-3e571624698d

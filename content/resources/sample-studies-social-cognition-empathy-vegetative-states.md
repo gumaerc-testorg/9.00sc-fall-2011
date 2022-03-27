@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Sample Studies: Social Cognition (Empathy) & Vegetative States'
 uid: 95a66503-2b2f-9643-44f4-1013f60528d6
 video_files:

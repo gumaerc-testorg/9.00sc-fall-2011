@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Predicting Happiness: Affective Forecasting, the Paradox of Choice'
 uid: 12be22cc-9039-04db-ea3f-01df0fc662b8
 video_files:

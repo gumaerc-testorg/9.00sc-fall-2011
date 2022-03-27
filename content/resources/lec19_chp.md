@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Stress
 parent_type: CourseSection
+parent_uid: 7c2c180c-bd50-5e62-bbf0-62d2d4926cae
 resourcetype: Image
 title: lec19_chp.jpg
 uid: 2cf8f0f9-1607-979c-4c97-ea915322d0a2

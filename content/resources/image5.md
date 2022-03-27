@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Discussion: Memory'
 parent_type: CourseSection
+parent_uid: f532f8a4-70da-048e-aaf5-8954f43c338e
 resourcetype: Image
 title: image5.jpg
 uid: a7ebdb05-4904-d828-009b-8ba8aeb48cb2

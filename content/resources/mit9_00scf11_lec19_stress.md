@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Stress
 parent_type: CourseSection
+parent_uid: 7c2c180c-bd50-5e62-bbf0-62d2d4926cae
 resourcetype: Document
 title: MIT9_00SCF11_lec19_stress.pdf
 uid: 2770e445-a477-4d40-b46b-e241a6909f14

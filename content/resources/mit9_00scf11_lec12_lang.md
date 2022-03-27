@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Language
 parent_type: CourseSection
+parent_uid: 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf
 resourcetype: Document
 title: MIT9_00SCF11_lec12_lang.pdf
 uid: bad022a1-cb74-39ff-bb6d-65ec1ab9a54a

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Emotion & Motivation
 parent_type: CourseSection
+parent_uid: b4449121-7bca-c751-42a3-a4cbf60a35fa
 resourcetype: Document
 title: MIT9_00SCF11_lec15_Emotion.pdf
 uid: c28dae58-ca9b-a42e-dc6f-eeceda51feae

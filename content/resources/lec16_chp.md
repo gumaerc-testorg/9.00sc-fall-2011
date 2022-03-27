@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Personality
 parent_type: CourseSection
+parent_uid: 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21
 resourcetype: Image
 title: lec16_chp.jpg
 uid: 071e94d8-4f2b-93fb-8c2f-2c05603d032b

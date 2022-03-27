@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Psychopathology I
 parent_type: CourseSection
+parent_uid: 3d51e6ac-e4c7-aca1-640b-d0dc09600b04
 resourcetype: Document
 title: MIT9_00SCF11_lec20_psych1.pdf
 uid: 5025a763-81ca-602d-a7a7-dc63067d64e9

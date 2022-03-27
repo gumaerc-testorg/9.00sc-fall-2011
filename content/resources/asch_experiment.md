@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Discussion: Social Psychology'
 parent_type: CourseSection
+parent_uid: 77c8fc5b-e4ad-5423-475a-195d788a8976
 resourcetype: Image
 title: Asch_experiment.jpg
 uid: 185d3f8a-dae4-3377-f55b-abb0afad6d23

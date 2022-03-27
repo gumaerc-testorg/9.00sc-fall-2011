@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Brain I: Structure and Functions'
 parent_type: CourseSection
+parent_uid: bed1d5fc-a69c-1587-2254-555a74b510d1
 resourcetype: Document
 title: MIT9_00SCF11_read_kr2.pdf
 uid: 0b4239da-8941-ad63-b996-4edbe5563106

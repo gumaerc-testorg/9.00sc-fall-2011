@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Brain Overview: Historical Viewpoints, Neurons, Gross Anatomy'
 uid: 299e33ee-3b09-cb78-87d1-f573ddd7d19f
 video_files:

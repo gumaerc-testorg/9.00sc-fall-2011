@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Vision II
 parent_type: CourseSection
+parent_uid: 1a9cef0b-4270-5f26-8826-24e84aceb1db
 resourcetype: Document
 title: MIT9_00SCF11_lec06_vis2.pdf
 uid: 2c0be37f-63a4-2fb5-feee-3bc92c475535

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Discussion: Memory'
 parent_type: CourseSection
+parent_uid: f532f8a4-70da-048e-aaf5-8954f43c338e
 resourcetype: Other
 title: memory_disc_2.mp3
 uid: 78eb6844-c285-f61a-92d8-ca230ed5bbf7

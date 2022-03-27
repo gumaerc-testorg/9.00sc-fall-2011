@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Intelligence
 parent_type: CourseSection
+parent_uid: 6d9b0bff-490c-c5ef-5d14-755460c9afd0
 resourcetype: Document
 title: MIT9_00SCF11_lec14_intel.pdf
 uid: 5d08a223-19ff-9132-9ff3-9bc9dfcae172

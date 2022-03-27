@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Discussion: Language'
 parent_type: CourseSection
+parent_uid: a024ee23-8c4f-fa34-78d4-a55e94731f03
 resourcetype: Other
 title: lang_disc.mp3
 uid: d5adcb19-ef26-a39e-2de7-c3a6ec704258

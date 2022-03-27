@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Social Psychology I
 parent_type: CourseSection
+parent_uid: ccc3861a-7d57-ad0a-f405-18e6fb5674e7
 resourcetype: Document
 title: MIT9_00SCF11_read_kr13.pdf
 uid: 4f3f0ab1-b8f4-4d77-afd2-fd56d8e1d1b5

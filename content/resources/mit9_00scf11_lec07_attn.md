@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Attention
 parent_type: CourseSection
+parent_uid: ddb63dde-65ae-0e9b-a26c-599b321fc842
 resourcetype: Document
 title: MIT9_00SCF11_lec07_attn.pdf
 uid: a4eb1079-2260-55a8-b05f-b1ce56f5d397

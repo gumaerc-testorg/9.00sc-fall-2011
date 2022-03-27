@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Attention
 parent_type: CourseSection
+parent_uid: ddb63dde-65ae-0e9b-a26c-599b321fc842
 resourcetype: Image
 title: lec07_chp.jpg
 uid: b408740e-62d5-e294-83a7-1e8429214e2e

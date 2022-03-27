@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Brain Imaging, Gender Differences, and Emotion
 uid: a6cf5a8c-a5c7-0a69-94b5-c0fc07ba0c7e
 video_files:
