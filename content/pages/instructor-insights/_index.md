@@ -1,23 +1,23 @@
 ---
 content_type: page
+description: This section provides context for how the course materials published
+  on MIT OpenCourseWare were originally used at MIT. It includes a course overview,
+  instructor insights, and information on course outcomes, the curriculum, the classroom,
+  assessment, students, and how time was spent.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
 title: Instructor Insights
 uid: b4984c35-7427-1ba3-965f-29e67252d227
 ---
+## Course Overview
 
-//\<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "&raquo;", backText: "&laquo;", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
-
-Course Overview
----------------
-
-This page focuses on the course 9.00 _Introduction to Psychology_ as it was taught by Prof. John Gabrieli in Spring 2011.
+This page focuses on the course _9.00_ _Introduction to Psychology_ as it was taught by Prof. John Gabrieli in Spring 2011.
 
 _Introduction to Psychology_ is designed to introduce you to the scientific study of human nature. Compared to other psychology courses, it places more emphasis on neuroscience and the scientific methods used to measure and understand the human mind. The course meets twice weekly for lectures that include in-class demonstrations. Topics include the mental and neural bases of perception, emotion, learning, memory, cognition, child development, personality, psychopathology, and social interaction. The class divides into twelve recitation sessions to discuss course topics each week.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -29,19 +29,17 @@ This course helps students understand how humans work, how people tick. It provi
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-_In the following pages, Prof. John Gabrieli describes various aspects of how he taught _9.00 Introduction to Psychology_._
+_In the following pages, Prof. John Gabrieli describes various aspects of how he taught_ 9.00 Introduction to Psychology.
 
-*   [Structuring a broad survey course]({{< baseurl >}}/pages/instructor-insights/structuring-a-broad-survey-course)
-*   [Crafting lectures that inspire and inform]({{< baseurl >}}/pages/instructor-insights/crafting-lectures-that-inspire-and-inform)
-*   [Bringing demonstrations into the classroom]({{< baseurl >}}/pages/instructor-insights/bringing-demonstrations-into-the-classroom)
-*   [Maintaining currency in a rapidly evolving field]({{< baseurl >}}/pages/instructor-insights/maintaining-currency-in-a-rapidly-evolving-field)
-*   [Teaching students to evaluate research]({{< baseurl >}}/pages/instructor-insights/teaching-students-to-evaluate-research)
+- {{% resource_link 54378383-2e19-5046-fc73-49997af088ba "Structuring a broad survey course" %}}
+- {{% resource_link 8937ce49-d58f-a613-51a8-58a2a435010c "Crafting lectures that inspire and inform" %}}
+- {{% resource_link af850264-7197-6cae-0c8d-72f135ef0d30 "Bringing demonstrations into the classroom" %}}
+- {{% resource_link 02f75232-aa93-e1f2-dc8e-fe8ae23cd7fc "Maintaining currency in a rapidly evolving field" %}}
+- {{% resource_link a81fc7d7-a253-4f91-909e-a35a0e30665a "Teaching students to evaluate research" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -49,8 +47,8 @@ None
 
 ### Requirements Satisfied
 
-*   HASS ![](/images/educator/icon-question-hass.png)
-*   Course 9 required subject
+- HASS ![](/images/educator/icon-question-hass.png)
+- Course 9 required subject
 
 ### Offered
 
@@ -58,8 +56,7 @@ Every Spring
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -69,10 +66,11 @@ The students' grades were based on the following activities:
 - 30% Writing assignments (15% each)
 - 10% Attendance and participation in recitations
 
-Student Information
--------------------
+## Student Information
 
-![On average, about 250 students take this course each year.]({{< resource_file b1ad50ae-73c2-5fa3-64bc-4dda1e765a3d >}})
+### Enrollment
+
+Approximately 250 students.
 
 ### Breakdown by Year
 
@@ -80,24 +78,21 @@ Primarily freshmen.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 4 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
-*   24 sessions that meet twice a week for 90 minutes
-*   Lecture topics presented with slides
-*   Reading discussion
-*   In-class demonstrations when possible
+- 24 sessions that meet twice a week for 90 minutes
+- Lecture topics presented with slides
+- Reading discussion
+- In-class demonstrations when possible
 
-Recitation
-----------
+### Recitation
 
-*   Mandatory attendance and participation
-*   TA-led weekly discussion sections
-*   13 sessions over the semester
-*   ~ 20 students in each section
-*   Concept review with discussion and questions to assess mastery
+- Mandatory attendance and participation
+- TA-led weekly discussion sections
+- 13 sessions over the semester
+- ~ 20 students in each section
+- Concept review with discussion and questions to assess mastery
