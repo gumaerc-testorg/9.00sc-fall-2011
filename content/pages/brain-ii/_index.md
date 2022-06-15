@@ -1,79 +1,64 @@
 ---
 content_type: page
-learning_resource_types: []
-ocw_type: CourseSection
+description: ''
+draft: false
 title: 'Brain II: Methods of Research'
 uid: 6026acd4-95f8-e039-d1e8-11a66efa90b3
 ---
+« {{% resource_link bed1d5fc-a69c-1587-2254-555a74b510d1 "Previous" %}} | {{% resource_link 6006b7d1-2269-c4a2-b231-88660361c816 "Next" %}} »
 
-« [Previous]({{< baseurl >}}/pages/brain-i) | [Next]({{< baseurl >}}/pages/vision-i) »
+## Session Overview
 
-Session Overview
-----------------
-
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-![Photo of a person sitting in a chair with a large cylindrical apparatus around their head, looking at a computer screen and holding a response device.]({{< resource_file ac4d4ddb-9e8d-b4f0-b735-6040cec313e2 >}})
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< resource ac4d4ddb-9e8d-b4f0-b735-6040cec313e2 >}}
+{{< tdclose >}}{{< tdopen >}}
 
 Understanding how the brain makes the mind takes an array of research methods. In this session, you'll learn the key principles, strengths, and limitations of brain injury studies, neural stimulation, and various recording techniques. The lecture video ends with a look at how research methods can help answer big questions about higher-level cognition, such as:
 
-*   Is there a anatomical basis for empathy?
-*   Does a patient in a "vegetative state" have mental imagery like healthy individuals?
+- Is there a anatomical basis for empathy?
+- Does a patient in a "vegetative state" have mental imagery like healthy individuals?
 
 _Keywords:_ lesion, neural stimulation, TMS, recording, structure vs. function, CT, DTI, EEG, MEG, PET, fMRI
 
-_A patient in a MEG scanner. (Public domain image from National Institute of Mental Health.)  
-_
+_A patient in a MEG scanner. (Public domain image from National Institute of Mental Health.)_
 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Session Activities
-------------------
+## Session Activities
 
 ### Readings
 
 Read the following before watching the lecture video.
 
-*   Finish the chapter you started for the previous session:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 2, "The Biology of Mind and Behavior: The Brain in Action"
-        *   [Study outline for K&R Chapter 2 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr2)
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 3 "Brains, Bodies, and Behavior"
+- Finish the chapter you started for the previous session:
+    - \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 2, "The Biology of Mind and Behavior: The Brain in Action"
+        - {{% resource_link 0b4239da-8941-ad63-b996-4edbe5563106 "Study outline for K&R Chapter 2 (PDF)" %}}
+    - \[\[Stangor\]\]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 3 "Brains, Bodies, and Behavior"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 4: Brain II]({{< baseurl >}}/resources/lecture-4-brain-ii)
+> - {{% resource_link cf2ab47a-59a7-8c46-d461-900796534620 "Lecture 4: Brain II" %}}
 > 
 > ### View by Chapter
 > 
-> *   [Methods of Studying the Human Brain]({{< baseurl >}}/resources/methods-of-studying-the-human-brain)
-> *   [Lesion (Injury) and Stimulation Studies]({{< baseurl >}}/resources/lesion-injury-and-stimulation-studies)
-> *   [Recording Studies of Structure: CT, MR, DTI]({{< baseurl >}}/resources/recording-studies-of-structure-ct-mr-dti)
-> *   [Recording Studies of Function: Electrical (EEG, MEG) & Metabolic (PET, fMRI)]({{< baseurl >}}/resources/recording-studies-of-function-electrical-eeg-meg-metabolic-pet-fmri)
-> *   [Sample Studies: Social Cognition (Empathy) & Vegetative States]({{< baseurl >}}/resources/sample-studies-social-cognition-empathy-vegetative-states)
+> - {{% resource_link 6ff063ef-d4f9-0575-8f4c-830a98532875 "Methods of Studying the Human Brain" %}}
+> - {{% resource_link 7febbb44-27f3-6e7d-8a35-bd43e50eb4f4 "Lesion (Injury) and Stimulation Studies" %}}
+> - {{% resource_link 7cc67b82-e1d0-017f-b2f7-d09f1b0db206 "Recording Studies of Structure: CT, MR, DTI" %}}
+> - {{% resource_link 208e1f3a-a3ae-b14d-ed27-9fc9c3c93896 "Recording Studies of Function: Electrical (EEG, MEG) & Metabolic (PET, fMRI)" %}}
+> - {{% resource_link 95a66503-2b2f-9643-44f4-1013f60528d6 "Sample Studies: Social Cognition (Empathy) & Vegetative States" %}}
 > 
 > ### Video Resources
 > 
-> *   Higher resolution version of animation played during lecture: cortical brain growth, ages 4 to 21, top view ([MOV](http://www.pnas.org/content/101/21/8174/suppl/DC1#F3)). From Gogtay, N., et al. "[Dynamic Mapping of Human Cortical Development During Childhood Through Early Adulthood](http://dx.doi.org/10.1073/pnas.0402680101)." _PNAS_ 101, no. 21 (2004): 8174-9.
-> *   [Lecture Slides (PDF - 4.5MB)]({{< baseurl >}}/resources/mit9_00scf11_lec04_brain2)
+> - Higher resolution version of animation played during lecture: cortical brain growth, ages 4 to 21, top view ([MOV](http://www.pnas.org/content/101/21/8174/suppl/DC1#F3)). From Gogtay, N., et al. "[Dynamic Mapping of Human Cortical Development During Childhood Through Early Adulthood](http://dx.doi.org/10.1073/pnas.0402680101)." _PNAS_ 101, no. 21 (2004): 8174-9.
+> - {{% resource_link e6fd1fa0-b4e0-a529-0f3a-1aeb3ccb0f43 "Lecture Slides (PDF - 4.5MB)" %}}
 
-Discussion: Brain
------------------
+## Discussion: Brain
 
-The brain: let's talk about its major systems, how we study them, and how they make the mind. This is just really cool to think about the fact that there's this organ that sits in your cranium, that sits between your two ears… [Read more »]({{< baseurl >}}/pages/brain-ii/discussion-brain)
+The brain: let's talk about its major systems, how we study them, and how they make the mind. This is just really cool to think about the fact that there's this organ that sits in your cranium, that sits between your two ears… {{% resource_link ff6b4a3e-07ac-3e8b-b88b-bbf06269fda2 "Read more »" %}}
 
-Check Yourself
---------------
+## Check Yourself
 
 Name four ways that scientists can study the brain. Describe each of these methods. Provide a description of a study or experiment that used one of these methods.
 
@@ -97,76 +82,40 @@ Here are four methods, selected from the eight methods discussed in the lecture 
 
 {{< /div-with-class >}}
 
-Further Study
--------------
+## Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 TYPE
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 CONTENT
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 CONTEXT
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Video
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 "[Jill Bolte Taylor's stroke of insight](http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html)." February. 2008. TED Talks. Accessed August. 19, 2011. \[00:18:42\]
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 A neuroscientist describes her experience having a massive stroke and subsequent recovery
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Web resource
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Johnson, K. A., and J. A. Becker. [The Whole Brain Atlas](http://www.med.harvard.edu/AANLIB/home.html).
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Includes a detailed primer on neuroimaging and a library of brain images
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Video
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 NIMHgov. "The Brain's Inner Workings Part II: Cognition." Aug. 12, 2009. YouTube. Accessed Feb. 14, 2012. [http://www.youtube.com/watch?v=PKj9i1qS08M](http://www.youtube.com/watch?v=PKj9i1qS08M)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Short video on imaging techniques that illustrate the neurological basis of higher brain function
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Study materials for Chapter 3, "The Biology of Mind and Behavior," in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-« [Previous]({{< baseurl >}}/pages/brain-i) | [Next]({{< baseurl >}}/pages/vision-i) »
+« {{% resource_link bed1d5fc-a69c-1587-2254-555a74b510d1 "Previous" %}} | {{% resource_link 6006b7d1-2269-c4a2-b231-88660361c816 "Next" %}} »
