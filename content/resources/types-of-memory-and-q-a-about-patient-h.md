@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2032'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Memory II: Amnesia and Memory Systems'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1339'
 title: Types of Memory and Q&A about Patient H.M.
 uid: 7ec23c33-9eeb-c001-702d-dbd1b835c2a1
 video_files:

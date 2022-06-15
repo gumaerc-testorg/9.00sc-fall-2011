@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1209'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Introduction
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '293'
 title: 'How Our Minds Make Our Worlds: Vision, Memory, Attention'
 uid: 88fa30f0-72d8-bedf-1135-d13d7b47a46d
 video_files:

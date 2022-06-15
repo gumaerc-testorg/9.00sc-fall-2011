@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Language
 uid: 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf
 ---
 
-« [Previous]({{< baseurl >}}/pages/memory-ii) | [Next]({{< baseurl >}}/pages/thinking) »
+« {{% resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Previous" %}} | {{% resource_link 13877f0d-e096-cd97-097b-21b89a257f99 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +15,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Cartoon of two people speaking to each other, one asking question (English, monolingual), and one replying (multi-lingual, showing several country flags).](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/language-1/lec12_chp.jpg)
+{{< resource "532d1830-ca3a-6920-014d-af3d349628df" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,34 +40,34 @@ Session Activities
 
 Read the following before watching the lecture video.
 
-*   \[[Sacks]({{< baseurl >}}/pages/syllabus#Sacks)\] Chapter 9, "The President's Speech" (pp. 80-86)
+*   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#Sacks" %}}\] Chapter 9, "The President's Speech" (pp. 80-86)
 *   **One** of the following textbook chapters:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Start Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
-        *   [Study outline for K&R Chapter 6 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr6)
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 9, "Intelligence and Language"
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Start Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
+        *   {{% resource_link ec89945b-5f56-6b6f-45ca-f926f53b1343 "Study outline for K&R Chapter 6 (PDF)" %}}
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 9, "Intelligence and Language"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 12: Language]({{< baseurl >}}/resources/lecture-12-language)
+> *   {{% resource_link de7e1360-ab7e-ad42-1094-54de0d0d96e1 "Lecture 12: Language" %}}
 > 
 > ### View by Chapter
 > 
-> *   [Language Basics: Sounds We Hear and Distinguish]({{< baseurl >}}/resources/language-basics-sounds-we-hear-and-distinguish)
-> *   [From Sound to Meaning: Syntax, Semantics, and Comprehension]({{< baseurl >}}/resources/from-sound-to-meaning-syntax-semantics-and-comprehension)
-> *   [Problems with Language: Aphasia and the Neural Basis of Speech]({{< baseurl >}}/resources/problems-with-language-aphasia-and-the-neural-basis-of-speech)
-> *   [Language Acquisition: Infants, Bilingualism, and the Case of Genie]({{< baseurl >}}/resources/language-acquisition-infants-bilingualism-and-the-case-of-genie)
+> *   {{% resource_link e00a6f13-3696-090f-0566-302bc575fc42 "Language Basics: Sounds We Hear and Distinguish" %}}
+> *   {{% resource_link 67d53cd0-a2a4-31e4-01d6-61d244fc63c5 "From Sound to Meaning: Syntax, Semantics, and Comprehension" %}}
+> *   {{% resource_link 410834fa-d5a0-7166-2596-2b923622300d "Problems with Language: Aphasia and the Neural Basis of Speech" %}}
+> *   {{% resource_link 8426d2de-f485-c0e0-20d4-c37a8e930ead "Language Acquisition: Infants, Bilingualism, and the Case of Genie" %}}
 > 
 > ### Video Resources
 > 
-> *   [Removed Clips]({{< baseurl >}}/pages/language-1/removed-clips)
-> *   [Lecture Slides (PDF - 1.7MB)]({{< baseurl >}}/resources/mit9_00scf11_lec12_lang)
+> *   {{% resource_link 5e968b8d-7502-9271-d980-6134a73a68fa "Removed Clips" %}}
+> *   {{% resource_link bad022a1-cb74-39ff-bb6d-65ec1ab9a54a "Lecture Slides (PDF - 1.7MB)" %}}
 
 Discussion
 ----------
 
-Language is just incredible – think about how easy it is for us, as babies, to learn our native language effortlessly, and yet how hard it is, once we’ve already learned a language, to learn another… [Read more »]({{< baseurl >}}/pages/language-1/discussion-language)
+Language is just incredible – think about how easy it is for us, as babies, to learn our native language effortlessly, and yet how hard it is, once we’ve already learned a language, to learn another… {{% resource_link a024ee23-8c4f-fa34-78d4-a55e94731f03 "Read more »" %}}
 
 Check Yourself
 --------------
@@ -207,4 +208,4 @@ Practice test questions, flashcards, and media for a related textbook
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/memory-ii) | [Next]({{< baseurl >}}/pages/thinking) »
+« {{% resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Previous" %}} | {{% resource_link 13877f0d-e096-cd97-097b-21b89a257f99 "Next" %}} »

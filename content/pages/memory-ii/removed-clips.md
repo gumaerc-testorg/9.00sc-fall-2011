@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides details about portions of the lecture video that were
+  removed due to copyright restrictions or other considerations.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Memory II: Amnesia and Memory Systems'
@@ -9,7 +11,7 @@ title: 'Removed Clips for Video Lecture 11: Memory II'
 uid: 3462ed7e-8d19-336b-4255-27ae0b64a9c7
 ---
 
-« [Previous]({{< baseurl >}}/pages/memory-ii)
+« {{% resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Previous" %}}
 
 Removed Clip 1: Patient H.M.'s Brain Being Prepared For Study
 -------------------------------------------------------------
@@ -21,4 +23,4 @@ Removed Clip 2: Living with Amnesia
 
 Excerpt (initial 5 minutes) from "Living With Amnesia: The Hippocampus and Memory." Episode 18 in _[The Brain](https://www.learner.org/series/the-brain-teaching-modules/living-with-amnesia-the-hippocampus-and-memory/)_. Annenberg Learner / Colorado State University, 1997. \[Scroll down to Episode 18 and click on the "VoD" box\]
 
-« [Previous]({{< baseurl >}}/pages/memory-ii)
+« {{% resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Previous" %}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides details about portions of the lecture video that were
+  removed due to copyright restrictions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Language
@@ -9,7 +11,7 @@ title: 'Removed Clips for Video Lecture 12: Language'
 uid: 5e968b8d-7502-9271-d980-6134a73a68fa
 ---
 
-« [Previous]({{< baseurl >}}/pages/language-1)
+« {{% resource_link 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf "Previous" %}}
 
 Removed Clip 1: Broca's Aphasia Patient
 ---------------------------------------
@@ -46,4 +48,4 @@ Excerpt from _Secret of the Wild Child_. PBS/NOVA, 1994.
 *   [Text transcript](http://www.pbs.org/wgbh/nova/transcripts/2112gchild.html) of complete NOVA program.
 *   [Teachers Guide](http://www.pbs.org/wgbh/nova/teachers/programs/2112_wildchil.html)
 
-« [Previous]({{< baseurl >}}/pages/language-1)
+« {{% resource_link 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf "Previous" %}}

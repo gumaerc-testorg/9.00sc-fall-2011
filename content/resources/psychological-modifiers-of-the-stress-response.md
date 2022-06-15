@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2969'
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,7 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1907'
 title: Psychological Modifiers of the Stress Response
 uid: 03932d1c-fa95-1258-37ff-f8bf72ccc30b
 video_files:

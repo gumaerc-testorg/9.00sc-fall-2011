@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Attention
@@ -9,7 +10,7 @@ title: 'Removed Clips for Video Lecture 7: Attention'
 uid: 124ac5c1-a2d2-3e62-425c-1b6dd9fc2931
 ---
 
-« [Previous]({{< baseurl >}}/pages/attention)
+« {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Previous" %}}
 
 Removed Clip 1: The Gradual Change Test
 ---------------------------------------
@@ -32,4 +33,4 @@ Removed Clip 3: The "Door" Study
 
 This video is from [profsimons](http://www.youtube.com/user/profsimons) via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
 
-« [Previous]({{< baseurl >}}/pages/attention)
+« {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Previous" %}}

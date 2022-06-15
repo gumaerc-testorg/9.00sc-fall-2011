@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Learning
 uid: ac69f1eb-8793-b39a-98cb-15527df3770a
 ---
 
-« [Previous]({{< baseurl >}}/pages/consciousness) | [Next]({{< baseurl >}}/pages/exam-1) »
+« {{% resource_link 504a0556-a3d6-731e-b23a-dd60493cf4d4 "Previous" %}} | {{% resource_link 2a1bb179-e346-dcc5-f5ed-9fcce0c33d1a "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +15,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Brain image highlighting a small region of activity (parahippocampal cortex), and caption Ready to Learn.]({{< resource_file 5296d964-3245-796a-184a-afd4108a4252 >}})
+{{< resource 5296d964-3245-796a-184a-afd4108a4252 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -40,34 +41,34 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   **One** of the following textbook chapters:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 4, "Learning: How Experience Changes Us."
-        *   [Study outline for K&R Chapter 4 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr4) 
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 7, "Learning"
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 4, "Learning: How Experience Changes Us."
+        *   {{% resource_link 33a99595-e42e-8173-c805-09553eb52a8c "Study outline for K&R Chapter 4 (PDF)" %}} 
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 7, "Learning"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 9: Learning]({{< baseurl >}}/resources/lecture-9-learning)
+> *   {{% resource_link 947c7874-107b-9090-835f-d5e71150803f "Lecture 9: Learning" %}}
 > 
 > ### View by Chapter
 > 
-> *   [Pavlov and Learning Through Conditioning]({{< baseurl >}}/resources/pavlov-and-learning-through-conditioning)
-> *   [Operant Conditioning, Thorndike's cat, and Little Albert]({{< baseurl >}}/resources/operant-conditioning-thorndikes-cat-and-little-albert)
-> *   [Reinforcement and Learned Helplessness]({{< baseurl >}}/resources/reinforcement-and-learned-helplessness)
-> *   [Limits of Conditioning]({{< baseurl >}}/resources/limits-of-conditioning)
-> *   [Reward Value and Delayed Gratification]({{< baseurl >}}/resources/reward-value-and-delayed-gratification)
-> *   [Is Language Learning a Conditioned Skill?]({{< baseurl >}}/resources/is-language-learning-a-conditioned-skill)
+> *   {{% resource_link 0ac16198-3e7b-99ed-de22-f0213346920f "Pavlov and Learning Through Conditioning" %}}
+> *   {{% resource_link fb51720c-82b0-3774-d42c-66802d348801 "Operant Conditioning, Thorndike's cat, and Little Albert" %}}
+> *   {{% resource_link 65dc8c01-ef5e-e2a1-dc83-00c2af25f5e3 "Reinforcement and Learned Helplessness" %}}
+> *   {{% resource_link 999204c3-f9fd-8fd3-421d-50836858697c "Limits of Conditioning" %}}
+> *   {{% resource_link cc16d122-865f-4a77-41e6-788bdd3c6fcf "Reward Value and Delayed Gratification" %}}
+> *   {{% resource_link 24635bcc-811d-b2ee-48d4-b004936b8b35 "Is Language Learning a Conditioned Skill?" %}}
 > 
 > ### Video Resources
 > 
-> *   [Removed Clips]({{< baseurl >}}/pages/learning/removed-clips)
-> *   [Lecture Slides (PDF)]({{< baseurl >}}/resources/mit9_00scf11_lec09_learning)
+> *   {{% resource_link 24cb885c-d840-eef3-74aa-83552e6e1dc0 "Removed Clips" %}}
+> *   {{% resource_link a7d978ec-1b58-fd1b-1f52-a442d807c40b "Lecture Slides (PDF)" %}}
 
 Discussion: Learning
 --------------------
 
-_Habituation_ is when repeated exposure to a stimulus decreases an organism's responsiveness to the stimulus. What are some things in life that we experience over and over again and react less and less to? What's an example of habituation in real life?... [Read more »]({{< baseurl >}}/pages/learning/discussion-learning)
+_Habituation_ is when repeated exposure to a stimulus decreases an organism's responsiveness to the stimulus. What are some things in life that we experience over and over again and react less and less to? What's an example of habituation in real life?... {{% resource_link dd2585a0-41b8-80df-fe5a-97414e3b4d5e "Read more »" %}}
 
 Check Yourself
 --------------
@@ -142,4 +143,4 @@ Practice test questions, flashcards, and media for a related textbook
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/consciousness) | [Next]({{< baseurl >}}/pages/exam-1) »
+« {{% resource_link 504a0556-a3d6-731e-b23a-dd60493cf4d4 "Previous" %}} | {{% resource_link 2a1bb179-e346-dcc5-f5ed-9fcce0c33d1a "Next" %}} »

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Gabrieli discusses how he uses in class demonstrations
+  to bring research to life.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

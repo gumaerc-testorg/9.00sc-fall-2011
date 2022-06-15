@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1906'
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,7 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '719'
 title: Physical Stress Mechanism and Its Effects
 uid: 09aa83eb-a594-6904-2bad-25b463959314
 video_files:

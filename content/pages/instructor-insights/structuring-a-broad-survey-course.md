@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Gabrieli presents his approach to offering a broad
+  and comprehensive introduction to the discipline of psychology, while also including
+  salient details in his lectures.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

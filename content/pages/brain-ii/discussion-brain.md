@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Brain II: Methods of Research'
@@ -9,9 +10,9 @@ title: 'Discussion: Brain'
 uid: ff6b4a3e-07ac-3e8b-b88b-bbf06269fda2
 ---
 
-« [Previous]({{< baseurl >}}/pages/brain-ii)
+« {{% resource_link 6026acd4-95f8-e039-d1e8-11a66efa90b3 "Previous" %}}
 
-This page summarizes some of the main points from small group discussion (recitation) sessions led by teaching assistants following the [Brain I]({{< baseurl >}}/pages/brain-i) and [Brain II]({{< baseurl >}}/pages/brain-ii) lectures.
+This page summarizes some of the main points from small group discussion (recitation) sessions led by teaching assistants following the {{% resource_link bed1d5fc-a69c-1587-2254-555a74b510d1 "Brain I" %}} and {{% resource_link 6026acd4-95f8-e039-d1e8-11a66efa90b3 "Brain II" %}} lectures.
 
 Introduction
 ------------
@@ -31,7 +32,7 @@ Let's begin with a couple of questions.
 
 The brain can be divided into 4 lobes. What are they?
 
-![A multi-colored illustration showing the side-view of a brain with regions labeled A through D.]({{< resource_file 154616dc-9ae6-66b1-b1ee-b68af17e57de >}})
+{{< resource 154616dc-9ae6-66b1-b1ee-b68af17e57de >}}
 
 Lobes of the brain. (Image by MIT OpenCourseWare.)
 
@@ -92,4 +93,4 @@ Social interaction — We humans are supremely social creatures. How has the bra
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/brain-ii)
+« {{% resource_link 6026acd4-95f8-e039-d1e8-11a66efa90b3 "Previous" %}}

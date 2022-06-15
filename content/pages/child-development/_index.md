@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Child Development
 uid: 997bafe5-99f3-c3e0-e5a8-007934413597
 ---
 
-« [Previous]({{< baseurl >}}/pages/personality) | [Next]({{< baseurl >}}/pages/adult-development) »
+« {{% resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Previous" %}} | {{% resource_link 16d028ce-a283-f227-fed3-766ed19d3957 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +15,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![A photo of a boy playing with blocks.]({{< resource_file 2426bc29-cca6-e9d1-957e-e1b8d1173387 >}})
+{{< resource 2426bc29-cca6-e9d1-957e-e1b8d1173387 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -40,29 +41,29 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   Begin **one** of these chapters in your chosen textbook:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 9, "Psychology Over the Life Span: Growing Up, Growing Older, Growing Wiser"
-        *   [Study outline for K&R Chapter 9 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr9)
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 6 "Growing and Developing"
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 9, "Psychology Over the Life Span: Growing Up, Growing Older, Growing Wiser"
+        *   {{% resource_link 3d126a0f-54a6-443c-15ac-0677f614aeee "Study outline for K&R Chapter 9 (PDF)" %}}
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 6 "Growing and Developing"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 17: Child Development]({{< baseurl >}}/resources/lecture-17-child-development)
+> *   {{% resource_link e39f3e97-7d06-242a-0a9c-55dca2204d18 "Lecture 17: Child Development" %}}
 > 
 > ### View by Chapter
 > 
-> *   [Introduction and Neotony]({{< baseurl >}}/resources/introduction-and-neotony)
-> *   [How Babies Learn]({{< baseurl >}}/resources/how-babies-learn)
-> *   [Piaget and the Sensorimotor Stage]({{< baseurl >}}/resources/piaget-and-the-sensorimotor-stage)
-> *   [Piaget and the Preoperational Stage]({{< baseurl >}}/resources/piaget-and-the-preoperational-stage)
-> *   [Theory of Mind]({{< baseurl >}}/resources/theory-of-mind)
-> *   [Babies and Mathematicians]({{< baseurl >}}/resources/babies-and-mathematicians)
+> *   {{% resource_link 56f5a983-8c50-607d-4e41-9053220e7acd "Introduction and Neotony" %}}
+> *   {{% resource_link 724b9a5c-302b-2627-6c6b-c232f7b87d55 "How Babies Learn" %}}
+> *   {{% resource_link ee01c679-6687-0639-d554-c657141b3135 "Piaget and the Sensorimotor Stage" %}}
+> *   {{% resource_link 16a39637-ead3-ca50-3794-68efd009830d "Piaget and the Preoperational Stage" %}}
+> *   {{% resource_link cd6936fc-9742-936a-addf-eee7b5896714 "Theory of Mind" %}}
+> *   {{% resource_link f28fe0d3-112b-ebfa-a66a-0deaa8919021 "Babies and Mathematicians" %}}
 > 
 > ### Video Resources
 > 
-> *   [Removed Clips]({{< baseurl >}}/pages/child-development/removed-clips)
-> *   [Lecture Slides (PDF)]({{< baseurl >}}/resources/mit9_00scf11_lec17_child)
+> *   {{% resource_link a2d38cc6-8bc4-816f-949a-4be4efa32027 "Removed Clips" %}}
+> *   {{% resource_link 03f8c32c-b1c8-d2df-fd0b-51375fc0b389 "Lecture Slides (PDF)" %}}
 
 Check Yourself
 --------------
@@ -105,7 +106,7 @@ A child with a _disorganized_ attachment style seems to have no consistent way o
 {{< anchor "Further_Study" >}}{{< /anchor >}}Further Study
 ----------------------------------------------------------
 
-[Writing Assignment 2]({{< baseurl >}}/pages/child-development/writing-assignment-2): Admission of a "recovered memory" in a court case.
+{{% resource_link 72174c8c-93bb-ea97-0170-d3fdf0aed22e "Writing Assignment 2" %}}: Admission of a "recovered memory" in a court case.
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
@@ -164,4 +165,4 @@ Practice test questions, flashcards, and media for a related textbook
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/personality) | [Next]({{< baseurl >}}/pages/adult-development) »
+« {{% resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Previous" %}} | {{% resource_link 16d028ce-a283-f227-fed3-766ed19d3957 "Next" %}} »

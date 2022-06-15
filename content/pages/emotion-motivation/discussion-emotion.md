@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Emotion & Motivation
@@ -9,12 +10,12 @@ title: 'Discussion: Emotion'
 uid: 8f18b72f-2e72-4645-1a9f-00323d721732
 ---
 
-« [Previous]({{< baseurl >}}/pages/emotion-motivation)
+« {{% resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Previous" %}}
 
 Session Overview
 ----------------
 
-This discussion session complements the prior lecture session, [Emotion and Motivation]({{< baseurl >}}/pages/emotion-motivation).
+This discussion session complements the prior lecture session, {{% resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Emotion and Motivation" %}}.
 
 Discussion
 ----------
@@ -32,7 +33,7 @@ The functions of emotions are to help us approach or withdraw from things in the
 
 And those emotions that first came to mind? Ekman and Friesen (1971) concluded that there are six basic emotions shared by all humans: happiness, sadness, fear, anger, surprise, and disgust.
 
-![diss_img.jpg]({{< resource_file 2559fe30-0989-3b5e-d70e-8c0290fb6cc9 >}})
+{{< resource 2559fe30-0989-3b5e-d70e-8c0290fb6cc9 >}}
 
 © Paul Ekman. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
@@ -45,7 +46,7 @@ Critical Thinking
 
 Classifying emotions is one thing, but explaining why we have emotions is quite another. Four major theories of emotion have been influential in describing the purpose of emotion: the _James-Lange theory_, the _Cannon-Bard theory_, the _cognitive theory_, and today's _emerging synthesis_ model. To review, describe the relationship between event and emotion in each model. Describe some evidence in support of the theory and some evidence against it. Finally, describe the roles of brain, body, memory, and interpretation in the emerging synthesis model.
 
-(Need help with this question? See [Study outline for K&R Chapter 7 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr7).)
+(Need help with this question? See {{% resource_link 346b32b9-1187-cd48-8571-d14bfc942eab "Study outline for K&R Chapter 7 (PDF)" %}}.)
 
 ### James-Lange Theory
 
@@ -93,4 +94,4 @@ Similarly, a happy mood could really affect how a person reacts to his bad grade
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/emotion-motivation)
+« {{% resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Previous" %}}

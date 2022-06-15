@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides introductions to the course teaching assistants.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -9,7 +10,7 @@ title: Meet the TAs
 uid: ad8e2a55-5c0f-805b-1c0f-5cda0d5fc9b9
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus/meet-professor-john-gabrieli) | [Next]({{< baseurl >}}/pages/introduction) »
+« {{% resource_link 1b1519bf-3d32-3eea-62e8-361e4ee1395a "Previous" %}} | {{% resource_link c5c3533b-2688-5392-8ef7-cf5bea62d6a4 "Next" %}} »
 
 Sara Beach
 ----------
@@ -41,4 +42,4 @@ Melissa Troyer
 
 Melissa Troyer grew up in Kokomo, IN, where she graduated from a small county public school before attending Indiana University in Bloomington. At IU, Melissa studied language and cognition from several approaches, earning a B.S. in Cognitive Science, a B.S. in Psychology, and a joint B.A. in Linguistics and French. As an undergraduate, Melissa was a computer programmer in an EEG lab and worked as a research assistant for three years in a speech perception laboratory. After graduating, she began the Ph.D. program in the Brain and Cognitive Sciences at MIT to work on sentence processing. She will receive her Master's from MIT in Cognitive Science in February, 2012, and plans to go on to pursue further research in the cognitive science of language in the future. She is a recipient of both the National Science Foundation Graduate Research Fellowship and the National Defense Science and Engineering Graduate Fellowship. In her free time, she sings with a local choral and orchestral group, Calliope, and enjoys spending time exploring the Cambridge area with friends.
 
-« [Previous]({{< baseurl >}}/pages/syllabus/meet-professor-john-gabrieli) | [Next]({{< baseurl >}}/pages/introduction) »
+« {{% resource_link 1b1519bf-3d32-3eea-62e8-361e4ee1395a "Previous" %}} | {{% resource_link c5c3533b-2688-5392-8ef7-cf5bea62d6a4 "Next" %}} »

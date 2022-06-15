@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Learning
@@ -9,7 +10,7 @@ title: 'Discussion: Learning'
 uid: dd2585a0-41b8-80df-fe5a-97414e3b4d5e
 ---
 
-« [Previous]({{< baseurl >}}/pages/learning)
+« {{% resource_link ac69f1eb-8793-b39a-98cb-15527df3770a "Previous" %}}
 
 There are two types of learning: associative learning and non-associative learning. _Associative learning_ is when you learn something new about a new kind of stimulus (that is, an extra stimulus). _Non-associative learning_ is when you're not pairing a stimulus with a behavior. Non-associative learning can be either _habituation_ or _sensitization_.
 
@@ -136,4 +137,4 @@ PUNISHMENT
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/learning)
+« {{% resource_link ac69f1eb-8793-b39a-98cb-15527df3770a "Previous" %}}

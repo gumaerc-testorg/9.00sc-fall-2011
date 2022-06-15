@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Social Psychology II
@@ -9,12 +10,12 @@ title: 'Discussion: Social Psychology'
 uid: 77c8fc5b-e4ad-5423-475a-195d788a8976
 ---
 
-« [Previous]({{< baseurl >}}/pages/social-psychology-ii)
+« {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Previous" %}}
 
 Session Overview
 ----------------
 
-How do we think about others, and how do they think about us? This discussion session complements the prior lecture sessions [Social Psychology I]({{< baseurl >}}/pages/social-psychology-i) and [Social Psychology II]({{< baseurl >}}/pages/social-psychology-ii).
+How do we think about others, and how do they think about us? This discussion session complements the prior lecture sessions {{% resource_link ccc3861a-7d57-ad0a-f405-18e6fb5674e7 "Social Psychology I" %}} and {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Social Psychology II" %}}.
 
 Discussion
 ----------
@@ -86,7 +87,7 @@ Participants in the $1 group rated the task as more interesting than participant
 
 In the wake of World War II, a number of psychologists began to study conformity and obedience to authority. In Asch's experiments, groups of participants were asked to participate in "vision tests" in which they had to say out loud whether line A, B, or C was the same length as the first line.
 
-![Asch_experiment.jpg]({{< resource_file 185d3f8a-dae4-3377-f55b-abb0afad6d23 >}})
+{{< resource 185d3f8a-dae4-3377-f55b-abb0afad6d23 >}}
 
 © Nyenyec on [Wikipedia](http://en.wikipedia.org/wiki/File:Asch_experiment.png). Image uploaded under a CC-BY-SA/GNU Free Documentation License. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
@@ -126,4 +127,4 @@ Despite predictions that only 1 or 2 percent of people would persist in administ
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/social-psychology-ii)
+« {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Previous" %}}

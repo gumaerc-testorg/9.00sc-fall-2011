@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an introduction to the course professor and information
+  on his research.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -9,7 +11,7 @@ title: Meet Professor John Gabrieli
 uid: 1b1519bf-3d32-3eea-62e8-361e4ee1395a
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/syllabus/meet-the-tas) »
+« {{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Previous" %}} | {{% resource_link ad8e2a55-5c0f-805b-1c0f-5cda0d5fc9b9 "Next" %}} »
 
 This page content is courtesy of the [McGovern Institute for Brain Research](http://mcgovern.mit.edu), used with permission.
 
@@ -37,4 +39,4 @@ At the other end of life, Gabrieli studies how memory emerges during childhood. 
 
 Neuroimaging can also provide new insights into psychiatric disorders such as depression and schizophrenia. Gabrieli has collaborated with colleagues at McLean Hospital and Massachusetts General Hospital to examine abnormal patterns of activity in the brains of psychiatric patients. In the future he plans to combine neuroimaging with genetic studies to understand how genes and environmental factors interact within the brain to produce psychiatric disease.
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/syllabus/meet-the-tas) »
+« {{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Previous" %}} | {{% resource_link ad8e2a55-5c0f-805b-1c0f-5cda0d5fc9b9 "Next" %}} »

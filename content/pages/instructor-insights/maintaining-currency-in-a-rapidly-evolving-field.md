@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Gabrieli discusses how he keeps his course current,
+  from the latest controversies played out in the media to breakthrough discoveries
+  in brain research.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

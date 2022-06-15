@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Social Psychology I
 uid: ccc3861a-7d57-ad0a-f405-18e6fb5674e7
 ---
 
-« [Previous]({{< baseurl >}}/pages/psychopathology-ii) | [Next]({{< baseurl >}}/pages/social-psychology-ii) »
+« {{% resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" %}} | {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +15,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photo of a crowd showing a range of social behavior.]({{< resource_file 0dac5d87-794f-96da-7cd6-3cfcbdc30ede >}})
+{{< resource 0dac5d87-794f-96da-7cd6-3cfcbdc30ede >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -40,29 +41,29 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   Begin **one** of these chapters in your chosen textbook:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 13, "The Social Psychology: Meeting of the Minds"
-        *   [Study outline for K&R Chapter 13 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr13)
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 14 "Psychology in Our Social Lives"
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 13, "The Social Psychology: Meeting of the Minds"
+        *   {{% resource_link 4f3f0ab1-b8f4-4d77-afd2-fd56d8e1d1b5 "Study outline for K&R Chapter 13 (PDF)" %}}
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 14 "Psychology in Our Social Lives"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 22: Social Psychology I]({{< baseurl >}}/resources/lecture-22-social-psychology-i)
+> *   {{% resource_link 4ee2590b-54c3-1d71-1a1e-1f2cac1dcccd "Lecture 22: Social Psychology I" %}}
 > 
 > ### View by Chapter
 > 
-> *   [What is Social Psychology?]({{< baseurl >}}/resources/what-is-social-psychology)
-> *   [Fundamental Attribution Error and Cognitive Busyness]({{< baseurl >}}/resources/fundamental-attribution-error-and-cognitive-busyness)
-> *   [Pfc. England]({{< baseurl >}}/resources/pfc)
-> *   [Social Influence: Conformity, Compliance, and Obedience]({{< baseurl >}}/resources/social-influence-conformity-compliance-and-obedience)
-> *   [Milgram Obedience Study and Stanford Prison Experiment]({{< baseurl >}}/resources/milgram-obedience-study-and-stanford-prison-experiment)
-> *   [Bystanders and Helping: The Bystander Effect]({{< baseurl >}}/resources/bystanders-and-helping-the-bystander-effect)
+> *   {{% resource_link bf00025d-9118-5ede-f4ba-5f3e2a464105 "What is Social Psychology?" %}}
+> *   {{% resource_link 3e30be2b-4e19-d884-680e-62c5272b88d1 "Fundamental Attribution Error and Cognitive Busyness" %}}
+> *   {{% resource_link 3201b169-9911-bd44-0809-1ab189a44f53 "Pfc. England" %}}
+> *   {{% resource_link 8fbd15db-5aef-b939-2d73-8bf024953463 "Social Influence: Conformity, Compliance, and Obedience" %}}
+> *   {{% resource_link 84923cbe-3262-7681-2344-85d1e2a3be04 "Milgram Obedience Study and Stanford Prison Experiment" %}}
+> *   {{% resource_link bf9569c0-746a-94a6-9d31-bc633de4459c "Bystanders and Helping: The Bystander Effect" %}}
 > 
 > ### Video Resources
 > 
-> *   [Removed Clips]({{< baseurl >}}/pages/social-psychology-i/removed-clips)
-> *   [Lecture Slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit9_00scf11_lec22_socpsych1)
+> *   {{% resource_link e6d54f5f-c23c-5c22-1e33-aaa567e1e77a "Removed Clips" %}}
+> *   {{% resource_link e0e09902-0314-9ab3-d54d-9f041015adee "Lecture Slides (PDF - 1.2MB)" %}}
 
 Check Yourself
 --------------
@@ -107,7 +108,7 @@ CONTEXT
 Supplemental textbook
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
+[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
 {{< tdclose >}}
 {{< tdopen >}}
 Creative Commons-licensed online textbook
@@ -141,4 +142,4 @@ Practice test questions, flashcards, and media for a related textbook by Kosslyn
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/psychopathology-ii) | [Next]({{< baseurl >}}/pages/social-psychology-ii) »
+« {{% resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" %}} | {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Next" %}} »

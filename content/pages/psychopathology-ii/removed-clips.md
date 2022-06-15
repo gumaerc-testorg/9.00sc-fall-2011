@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides details about portions of the lecture video that were
+  removed due to copyright restrictions or other considerations.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Psychopathology II
@@ -9,7 +11,7 @@ title: 'Removed Clips for Video Lecture 21: Psychopathology II'
 uid: 15be920d-790c-1252-7553-74642bbdef8c
 ---
 
-« [Previous]({{< baseurl >}}/pages/psychopathology-ii)
+« {{% resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" %}}
 
 Removed Clip 1: Woman with OCD
 ------------------------------
@@ -28,4 +30,4 @@ Removed Clip 3: Child with ADHD
 
 Excerpt (5:00 to 11:30) from "Behavioral Disorders of Childhood." Episode 11 in _[The World of Abnormal Psychology](https://www.learner.org/series/the-world-of-abnormal-psychology/)_. Produced by Alvin H. Perlmutter, Inc., and Toby Levine Communications, 1992. \[Scroll down to Episode 11 and click on the "VoD" box\]
 
-« [Previous]({{< baseurl >}}/pages/psychopathology-ii)
+« {{% resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" %}}

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to introduction to the science
   of psychology: history and research methods.'
-file: /media/courses/9-00sc-introduction-to-psychology-fall-2011/e37ac097cb76f26710cdc5ab47efa47a_MIT9_00SCF11_read_kr1.pdf
+file: /courses/9-00sc-introduction-to-psychology-fall-2011/e37ac097cb76f26710cdc5ab47efa47a_MIT9_00SCF11_read_kr1.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Document
 title: MIT9_00SCF11_read_kr1.pdf
 uid: e37ac097-cb76-f267-10cd-c5ab47efa47a
 ---
+This resource contains information related to introduction to the science of psychology: history and research methods.
+

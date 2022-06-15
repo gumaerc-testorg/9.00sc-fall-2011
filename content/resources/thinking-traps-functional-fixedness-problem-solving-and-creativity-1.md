@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '932'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Thinking
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '28'
 title: 'Thinking Traps: Functional Fixedness, Problem Solving, and Creativity'
 uid: f24203db-a33e-0de4-8677-aad7fef640d8
 video_files:

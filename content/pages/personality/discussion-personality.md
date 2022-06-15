@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Personality
@@ -9,12 +10,12 @@ title: 'Discussion: Personality'
 uid: 14f3a80a-3abe-0897-f998-844e35ba544f
 ---
 
-« [Previous]({{< baseurl >}}/pages/personality)
+« {{% resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Previous" %}}
 
 Session Overview
 ----------------
 
-How do we become who we are? This discussion session complements the prior lecture session [Personality]({{< baseurl >}}/pages/personality).
+How do we become who we are? This discussion session complements the prior lecture session {{% resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Personality" %}}.
 
 Discussion
 ----------
@@ -58,7 +59,7 @@ Demonstration
 
 This is the Rorschach, or the ink blot test, that everyone is familiar with. Your job is to interpret this figure so that a psychoanalyst can tell you what's wrong with you. So, is there a brave soul who wants to describe what they see?
 
-![lec16_diss_img1.jpg]({{< resource_file c6993c1e-05df-0285-b953-aaea6b43e102 >}})
+{{< resource c6993c1e-05df-0285-b953-aaea6b43e102 >}}
 
 © Unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
@@ -74,7 +75,7 @@ The face of a mouse or of Andre the Giant; a person extending his arms and singi
 
 Anyway, some of the other teaching assistants and I see something disturbing in this picture. You're welcome to look for it. It's open to your interpretation and your personality. In other words, those of you who are laughing and blushing clearly see it, and those of you who don't are clearly upstanding citizens. How about this one?
 
-![lec16_diss_img2.jpg]({{< resource_file a933880b-10f9-0805-73d0-655d36975be0 >}})
+{{< resource a933880b-10f9-0805-73d0-655d36975be0 >}}
 
 © Unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
@@ -95,7 +96,7 @@ Demonstration
 
 Let's try the Thematic Apperception Test. You're going to see a drawing of a scene, and the point of the test is not to describe it, but to tell the story: what happened before, what's happening now, how do they feel, what's going to happen next. Let's look at one, and a brave soul can tell me the story:
 
-![lec16_diss_img3.jpg]({{< resource_file 4f4553c5-5826-db95-7ce9-f8a9c3388dd5 >}})
+{{< resource 4f4553c5-5826-db95-7ce9-f8a9c3388dd5 >}}
 
 © Unknown. Image appears in the Thematic Appreciation Test, developed by Henry A. Murray and Christiana D. Morgan. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
@@ -138,4 +139,4 @@ As the cadets transition from high school to West Point, it's as if the standard
 
 To return to question about East Asian cultures, do you think it's an example of the same phenomenon? Remember, your personality is what distinguishes you from other people. Even if you are, in fact, very conscientious, in comparison to highly-conscientious people, you may rate yourself fairly low.
 
-« [Previous]({{< baseurl >}}/pages/personality)
+« {{% resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Previous" %}}

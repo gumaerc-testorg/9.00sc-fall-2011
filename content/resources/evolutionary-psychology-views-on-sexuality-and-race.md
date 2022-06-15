@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '845'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Conclusions: Evolutionary Psychology, Happiness'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '28'
 title: 'Evolutionary Psychology: Views on Sexuality and Race'
 uid: acc41b45-8fa7-23cc-0745-585d168a4633
 video_files:

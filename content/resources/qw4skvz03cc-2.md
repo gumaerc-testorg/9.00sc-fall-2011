@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/9-00sc-introduction-to-psychology-fall-2011/c30267ea7d3f39c2166e54d89d1439c9_Qw4SkvZ03cc.srt
+file: /courses/9-00sc-introduction-to-psychology-fall-2011/c30267ea7d3f39c2166e54d89d1439c9_Qw4SkvZ03cc.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

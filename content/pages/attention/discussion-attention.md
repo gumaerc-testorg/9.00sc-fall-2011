@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Attention
@@ -9,12 +10,12 @@ title: 'Discussion: Attention'
 uid: 69560261-47e9-87b2-11c7-d60818b3adcf
 ---
 
-« [Previous]({{< baseurl >}}/pages/attention)
+« {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Previous" %}}
 
 Session Overview
 ----------------
 
-How does the brain filter and focus? This discussion session complements the prior lecture session [Attention]({{< baseurl >}}/pages/attention).
+How does the brain filter and focus? This discussion session complements the prior lecture session {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Attention" %}}.
 
 Discussion
 ----------
@@ -71,13 +72,13 @@ Feature Search: searching for a target that differs from all distracters by a un
 
 Figure 1.
 
-![atten_visual_search1.jpg]({{< resource_file 3338bf06-787a-71e5-8113-7a0fe3fd8e33 >}})
+{{< resource 3338bf06-787a-71e5-8113-7a0fe3fd8e33 >}}
 
 This is easy! The target seems to pop out at you. This is an example of bottom-up processing, in which your attention is captured by salient sensory information.
 
 Figure 2.
 
-![atten_visual_search2.jpg]({{< resource_file 2f343c80-8c77-0e15-47cd-89e102f5c7d9 >}})
+{{< resource 2f343c80-8c77-0e15-47cd-89e102f5c7d9 >}}
 
 In fact, your search is just as fast even with twice as many distracters. Can you explain how bottom-up processing may be evolutionarily advantageous?
 
@@ -85,13 +86,13 @@ Conjunction Search: searching for a target that has a particular combination of 
 
 Figure 3.
 
-![atten_visual_search3.jpg]({{< resource_file 8a714aa4-6e9e-d013-caf5-1cca4c76a7bb >}})
+{{< resource 8a714aa4-6e9e-d013-caf5-1cca4c76a7bb >}}
 
 These objects have two features: color (red or green) and orientation (vertical or horizontal). You deploy top-down attentional strategies to integrate these two features when you search for the horizontal green T.
 
 Figure 4.
 
-![atten_visual_search4.jpg]({{< resource_file a0e95630-2f58-3697-4683-8cafde6e2f63 >}})
+{{< resource a0e95630-2f58-3697-4683-8cafde6e2f63 >}}
 
 The more distracters there are, the harder it is.
 
@@ -130,7 +131,7 @@ The idea is that, with things that come rapidly in time, we tend not to notice s
 
 The idea is that, with things that come rapidly in time, we tend not to notice something that happens shortly after something else happens. So, for example, if something happens, and then something happens immediately after, you're likely to notice it too, but if it happens slightly afterwards, you're likely to miss it. You're almost at chance for saying whether it happened or not. And then as things spread out in time you begin to notice them more and more.
 
-![atten_blink.jpg]({{< resource_file 70e6db00-ae91-0c76-52ea-08589cadd8b8 >}})
+{{< resource 70e6db00-ae91-0c76-52ea-08589cadd8b8 >}}
 
 © Sinauer Associates, Inc. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
@@ -168,4 +169,4 @@ Data show that talking to somebody in the car with you is substantially less dan
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/attention)
+« {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Previous" %}}

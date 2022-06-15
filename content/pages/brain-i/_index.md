@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Brain I: Structure and Functions'
 uid: bed1d5fc-a69c-1587-2254-555a74b510d1
 ---
 
-« [Previous]({{< baseurl >}}/pages/science-research) | [Next]({{< baseurl >}}/pages/brain-ii) »
+« {{% resource_link c4fbf121-480b-0561-6896-19683bc576cf "Previous" %}} | {{% resource_link 6026acd4-95f8-e039-d1e8-11a66efa90b3 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +15,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram showing side view of the human brain, with major brain regions in different colors.](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/brain-i/lec03_chp.jpg)
+{{< resource "9091d8f6-d75c-28ff-9b3a-aba1544099c4" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,29 +40,29 @@ Session Activities
 
 Read the following before watching the lecture video.
 
-*   \[[Sacks]({{< baseurl >}}/pages/syllabus#Sacks)\] Chapter 15 "Reminiscence" (pp. 132-149)
+*   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#Sacks" %}}\] Chapter 15 "Reminiscence" (pp. 132-149)
 *   Begin **one** of these chapters in your chosen textbook:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 2, "The Biology of Mind and Behavior: The Brain in Action"
-        *   [Study outline for K&R Chapter 2 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr2)
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 3, "Brains, Bodies, and Behavior"
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 2, "The Biology of Mind and Behavior: The Brain in Action"
+        *   {{% resource_link 0b4239da-8941-ad63-b996-4edbe5563106 "Study outline for K&R Chapter 2 (PDF)" %}}
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 3, "Brains, Bodies, and Behavior"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 3: Brain I]({{< baseurl >}}/resources/lecture-3-brain-i)
+> *   {{% resource_link df82aabb-ceac-8e3e-1466-73d618d9a318 "Lecture 3: Brain I" %}}
 > 
 > ### View by Chapter
 > 
-> *   [The Mind is What the Brain Does]({{< baseurl >}}/resources/the-mind-is-what-the-brain-does)
-> *   [Brain Overview: Historical Viewpoints, Neurons, Gross Anatomy]({{< baseurl >}}/resources/brain-overview-historical-viewpoints-neurons-gross-anatomy)
-> *   [Localization of Mental Functions]({{< baseurl >}}/resources/localization-of-mental-functions)
-> *   [Hemispheric Specialization]({{< baseurl >}}/resources/hemispheric-specialization)
+> *   {{% resource_link 58694b97-bac7-ce4f-95c3-347c369e3642 "The Mind is What the Brain Does" %}}
+> *   {{% resource_link 299e33ee-3b09-cb78-87d1-f573ddd7d19f "Brain Overview: Historical Viewpoints, Neurons, Gross Anatomy" %}}
+> *   {{% resource_link 56d84910-a6db-1d58-36c5-f923662c6430 "Localization of Mental Functions" %}}
+> *   {{% resource_link 3d0603e9-1da9-1728-f05c-6c465c6942b5 "Hemispheric Specialization" %}}
 > 
 > ### Video Resources
 > 
-> *   [Removed Clips]({{< baseurl >}}/pages/brain-i/removed-clips)
-> *   [Lecture Slides (PDF - 5.7MB)]({{< baseurl >}}/resources/mit9_00scf11_lec03_brain1)
+> *   {{% resource_link b7f97161-49d0-b07d-6f9a-7c1ef6dfdeea "Removed Clips" %}}
+> *   {{% resource_link d152a8ad-1522-8393-cc7c-ba38353a6954 "Lecture Slides (PDF - 5.7MB)" %}}
 
 Check Yourself
 --------------
@@ -153,4 +154,4 @@ Practice test questions, flashcards, and media for a related textbook by Kosslyn
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/science-research) | [Next]({{< baseurl >}}/pages/brain-ii) »
+« {{% resource_link c4fbf121-480b-0561-6896-19683bc576cf "Previous" %}} | {{% resource_link 6026acd4-95f8-e039-d1e8-11a66efa90b3 "Next" %}} »
