@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Vision II
 uid: 1a9cef0b-4270-5f26-8826-24e84aceb1db
 ---
 
-« [Previous]({{< baseurl >}}/pages/vision-i) | [Next]({{< baseurl >}}/pages/attention) »
+« {{% resource_link 6006b7d1-2269-c4a2-b231-88660361c816 "Previous" %}} | {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Next" %}} »
 
 Session Overview
 ----------------
@@ -12,7 +15,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![A digitally altered photograph in which a man has an eye on his hand.]({{< resource_file ec5cad29-af78-a15d-3eb0-feb5c097a980 >}})
+{{< resource ec5cad29-af78-a15d-3eb0-feb5c097a980 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,41 +41,41 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   **One** of the following textbook chapters:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 3, "Sensation and Perception: How the World Enters the Mind"
-        *   [Study outline for K&R Chapter 3 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr3)
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 4 "Sensing and Perceiving"
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 3, "Sensation and Perception: How the World Enters the Mind"
+        *   {{% resource_link 1fad7206-9961-bd95-7888-249ee39494d2 "Study outline for K&R Chapter 3 (PDF)" %}}
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 4 "Sensing and Perceiving"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 6: Vision II]({{< baseurl >}}/resources/lecture-6-vision-ii-1)
+> *   {{% resource_link 2b79cfc3-add5-23a3-c895-0462baf167e7 "Lecture 6: Vision II" %}}
 > 
 > ### View by Chapter
 > 
-> *   [Introduction to Recognition]({{< baseurl >}}/resources/introduction-to-recognition)
-> *   [Problems With Object Recognition]({{< baseurl >}}/resources/problems-with-object-recognition)
-> *   [Recognizing Faces and Prosopagnosia]({{< baseurl >}}/resources/recognizing-faces-and-prosopagnosia)
-> *   [The Development of Facial Recognition]({{< baseurl >}}/resources/the-development-of-facial-recognition)
-> *   [Word Recognition and Alexia]({{< baseurl >}}/resources/word-recognition-and-alexia)
-> *   [Predisposition to Facial Recognition]({{< baseurl >}}/resources/predisposition-to-facial-recognition)
-> *   [Race and Facial Recognition]({{< baseurl >}}/resources/race-and-facial-recognition)
-> *   [Recognizing Fear]({{< baseurl >}}/resources/recognizing-fear)
+> *   {{% resource_link eb7a88d1-ac6d-9067-d78a-5aa5eb748c0f "Introduction to Recognition" %}}
+> *   {{% resource_link 25861a1f-8949-7e3c-2cd5-fac505f0b582 "Problems With Object Recognition" %}}
+> *   {{% resource_link 833338d2-fa1d-f59e-1985-5fafee4f074d "Recognizing Faces and Prosopagnosia" %}}
+> *   {{% resource_link 0d26cf93-acd9-eed0-a6e9-311c49e9f75d "The Development of Facial Recognition" %}}
+> *   {{% resource_link 09f57258-375d-acfa-4900-0f8273fe587b "Word Recognition and Alexia" %}}
+> *   {{% resource_link 366c5c79-5f6e-8092-dd37-c090e0eb3a31 "Predisposition to Facial Recognition" %}}
+> *   {{% resource_link 40034e1d-f819-7de8-111d-4d582c90bf20 "Race and Facial Recognition" %}}
+> *   {{% resource_link cde955d0-1d85-e908-9b1a-fa5e3e0f15c6 "Recognizing Fear" %}}
 > 
 > ### Video Resources
 > 
-> *   [Removed Clips]({{< baseurl >}}/pages/vision-ii/removed-clips)
-> *   [Lecture Slides (PDF - 4.2MB)]({{< baseurl >}}/resources/mit9_00scf11_lec06_vis2)
+> *   {{% resource_link 9d011dba-a0a1-f07a-cac3-4553f20ecbe2 "Removed Clips" %}}
+> *   {{% resource_link 2c0be37f-63a4-2fb5-feee-3bc92c475535 "Lecture Slides (PDF - 4.2MB)" %}}
 
 Discussion: Vision
 ------------------
 
-We'll talk about _sensation_ – how light, the physical stimulus in the world, is transduced by your eye and becomes neural signals… [Read more »]({{< baseurl >}}/pages/vision-ii/discussion-vision)
+We'll talk about _sensation_ – how light, the physical stimulus in the world, is transduced by your eye and becomes neural signals… {{% resource_link efa61a0f-c3f3-31be-4614-e94ca3ee9a1a "Read more »" %}}
 
 Further Study
 -------------
 
-[Writing Assignment 1]({{< baseurl >}}/pages/vision-ii/writing-assignment-1): Are studies of cognitive and emotional developments in adolescents useful for setting public policy guidelines?
+{{% resource_link f3463455-6b38-505f-cc40-71a3b43caa1b "Writing Assignment 1" %}}: Are studies of cognitive and emotional developments in adolescents useful for setting public policy guidelines?
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
@@ -131,4 +134,4 @@ Practice test questions, flashcards, and media for a related textbook by Kosslyn
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/vision-i) | [Next]({{< baseurl >}}/pages/attention) »
+« {{% resource_link 6006b7d1-2269-c4a2-b231-88660361c816 "Previous" %}} | {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Next" %}} »

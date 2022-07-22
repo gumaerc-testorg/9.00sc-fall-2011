@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Prof. Gabrieli discusses how he keeps his course current,
+  from the latest controversies played out in the media to breakthrough discoveries
+  in brain research.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: b4984c35-7427-1ba3-965f-29e67252d227
 title: Maintaining Currency in a Rapidly Evolving Field
 uid: 02f75232-aa93-e1f2-dc8e-fe8ae23cd7fc

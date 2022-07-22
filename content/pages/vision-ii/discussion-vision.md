@@ -1,17 +1,21 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Vision II
+parent_type: CourseSection
 parent_uid: 1a9cef0b-4270-5f26-8826-24e84aceb1db
 title: 'Discussion: Vision'
 uid: efa61a0f-c3f3-31be-4614-e94ca3ee9a1a
 ---
 
-« [Previous]({{< baseurl >}}/pages/vision-ii)
+« {{% resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Previous" %}}
 
 Session Overview
 ----------------
 
-How do sensation, perception, and expectation create what we see? This discussion session complements the prior lecture sessions [Vision 1]({{< baseurl >}}/pages/vision-i) and [Vision 2]({{< baseurl >}}/pages/vision-ii).
+How do sensation, perception, and expectation create what we see? This discussion session complements the prior lecture sessions {{% resource_link 6006b7d1-2269-c4a2-b231-88660361c816 "Vision 1" %}} and {{% resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Vision 2" %}}.
 
 Discussion
 ----------
@@ -56,7 +60,7 @@ Why did you see the black and white image of the castle in color? According to t
 
 The most common type of color blindness is the inability to distinguish red and green. Can you read the number within the circle?
 
-![Color-Blindness.jpg]({{< resource_file 8cb55770-af65-6f2a-b379-1779368e88cb >}})
+{{< resource 8cb55770-af65-6f2a-b379-1779368e88cb >}}
 
 Ishihara Plate 9
 
@@ -64,7 +68,7 @@ Ishihara Plate 9
 
 What is happening with this giant child and her tiny father?
 
-![Depth-and-Size-Cues.jpg]({{< resource_file d45166c8-31a4-8fe5-fdf3-61352e4e43f1 >}})
+{{< resource d45166c8-31a4-8fe5-fdf3-61352e4e43f1 >}}
 
 Photo courtesy of [Keith Uden](http://www.flickr.com/photos/keithu/5954770994/) on Flickr.
 
@@ -74,9 +78,9 @@ This scene was designed to trick your eyes into seeing the adult (who is in the 
 
 What do you see in the image below?
 
-![Expectations-Changing-Perce.jpg]({{< resource_file 06351388-2d91-1596-036d-c5afb3454952 >}})
+{{< resource 06351388-2d91-1596-036d-c5afb3454952 >}}
 
-Courtesy of Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission. R.C. James, as seen in Tai Sing Lee (2003). Computations in the early visual cortex. Journal of Physiology 97, 121-139. Retrieved from (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://www.cnbc.cmu.edu/~tai/papers/journal_phys.pdf))
+Courtesy of Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission. R.C. James, as seen in Tai Sing Lee (2003). Computations in the early visual cortex. Journal of Physiology 97, 121-139. Retrieved from ([PDF - 1.2MB](http://www.cnbc.cmu.edu/~tai/papers/journal_phys.pdf))
 
 Do you see it?
 
@@ -86,7 +90,7 @@ Do you see it now?
 
 The truth is, once you know that there's a dog, you will always and forever see the dog in this picture. Why? Well, in addition to all of the feedforward systems in the brain (world → retina → lateral geniculate nucleus (in the thalamus) → V1 (visual cortex) → V2, V4, MT areas), there is also a _feedback system_. In fact, there are about 10 times as many feedback connections as feedforward connections in the visual system. The brain does not passively absorb visual information, it uses memory to impose its interpretations on the visual world.
 
-![Diagram of human brain, distinguishing the four lobes.]({{< resource_file c426065b-358b-dce0-1cbc-6376d17c2b25 >}})
+{{< resource c426065b-358b-dce0-1cbc-6376d17c2b25 >}}
 
 Image by MIT OpenCourseWare.
 
@@ -94,7 +98,7 @@ Image by MIT OpenCourseWare.
 
 Who are these people?
 
-![Configural1.jpg]({{< resource_file 0565a639-af78-a5ad-4f0d-f0943cfdcbeb >}})        ![Configural2.jpg]({{< resource_file 8068a14a-b2ab-4513-5718-b3451c50b594 >}})
+{{< resource 0565a639-af78-a5ad-4f0d-f0943cfdcbeb >}}        {{< resource 8068a14a-b2ab-4513-5718-b3451c50b594 >}}
 
 Reprinted by permission from Macmillan Publishers Ltd: Nature. Source: Sinha, Pawan, and Tomaso Poggio. "[I Think I Know That Face...](http://www.nature.com/nature/journal/v384/n6608/abs/384404a0.html)" _Nature_ 384 (1996): 404. © 1996.
 
@@ -110,4 +114,4 @@ In each case, the president's face has been copied onto the vice president's hea
 
 We don't see faces in parts, we see them in wholes – this is holistic processing. The illusion works because we expect the guy standing behind Clinton to be Gore, and because cues such as hair and glasses override our processing of the features.
 
-« [Previous]({{< baseurl >}}/pages/vision-ii)
+« {{% resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Previous" %}}

@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Conclusions: Evolutionary Psychology, Happiness'
 uid: 28acc476-566c-2161-f7cb-e0af48ee5d80
 ---
 
-« [Previous]({{< baseurl >}}/pages/social-psychology-ii) | [Next]({{< baseurl >}}/pages/final-exam) »
+« {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Previous" %}} | {{% resource_link 1a6a0f8c-ca91-9e83-c67f-a4ac0d656778 "Next" %}} »
 
 Session Overview
 ----------------
@@ -12,7 +15,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Drawing of a smiley face.]({{< resource_file 3960f2b6-b8e2-efbd-0c1b-78b10658e674 >}})
+{{< resource 3960f2b6-b8e2-efbd-0c1b-78b10658e674 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -41,18 +44,18 @@ There are no assigned readings for this session.
 
 > ### View Full Video
 > 
-> *   [Lecture 24: Conclusions]({{< baseurl >}}/resources/lecture-24-conclusions)
+> *   {{% resource_link 598d7599-2cca-83fd-3f3d-dd66b7b8b190 "Lecture 24: Conclusions" %}}
 > 
 > ### View by Chapter
 > 
-> *   [Evolutionary Psychology: Views on Sexuality and Race]({{< baseurl >}}/resources/evolutionary-psychology-views-on-sexuality-and-race)
-> *   [Happiness: Can It Be Measured and Studied?]({{< baseurl >}}/resources/happiness-can-it-be-measured-and-studied)
-> *   [Predicting Happiness: Affective Forecasting, the Paradox of Choice]({{< baseurl >}}/resources/predicting-happiness-affective-forecasting-the-paradox-of-choice)
+> *   {{% resource_link acc41b45-8fa7-23cc-0745-585d168a4633 "Evolutionary Psychology: Views on Sexuality and Race" %}}
+> *   {{% resource_link d2fb1273-3c39-f2e1-d3a6-a45bc127d0c4 "Happiness: Can It Be Measured and Studied?" %}}
+> *   {{% resource_link 12be22cc-9039-04db-ea3f-01df0fc662b8 "Predicting Happiness: Affective Forecasting, the Paradox of Choice" %}}
 > 
 > ### Video Resources
 > 
 > *   [Subjective Happiness Scale (SHS) self-assessment](http://sonjalyubomirsky.com/subjective-happiness-scale-shs/) (handout distributed during class)
-> *   [Lecture Slides (PDF)]({{< baseurl >}}/resources/mit9_00scf11_lec24)
+> *   {{% resource_link 71010302-8427-f017-f055-653147250c96 "Lecture Slides (PDF)" %}}
 
 Further Study
 -------------
@@ -80,7 +83,7 @@ CONTEXT
 Supplemental reading
 {{< tdclose >}}
 {{< tdopen >}}
-Clark, R. D., III & E. Hatfield. "Gender Differences in Receptivity to Sexual Offers." _Journal of Psychology and Human Sexuality_ 2 (1989): 39–55. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www2.hawaii.edu/~elaineh/79.pdf))
+Clark, R. D., III & E. Hatfield. "Gender Differences in Receptivity to Sexual Offers." _Journal of Psychology and Human Sexuality_ 2 (1989): 39–55. ([PDF](http://www2.hawaii.edu/~elaineh/79.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 Paper referenced in lecture video about womens' and mens' responses to three propositons (date, apartment, sex)
@@ -102,4 +105,4 @@ Talk by [Prof. Daniel Gilbert](http://gilbert.socialpsychology.org/), a leading 
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/social-psychology-ii) | [Next]({{< baseurl >}}/pages/final-exam) »
+« {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Previous" %}} | {{% resource_link 1a6a0f8c-ca91-9e83-c67f-a4ac0d656778 "Next" %}} »

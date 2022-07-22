@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Intelligence
+parent_type: CourseSection
 parent_uid: 6d9b0bff-490c-c5ef-5d14-755460c9afd0
 title: 'Discussion: Thinking & Intelligence'
 uid: 05a68009-c3c6-23d2-a788-f8858b6ebf30
 ---
 
-« [Previous]({{< baseurl >}}/pages/intelligence)
+« {{% resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Previous" %}}
 
 Session Overview
 ----------------
@@ -19,7 +23,7 @@ Session Overview
 {{< tdopen >}}
 
 
-How do we think? What does it mean to be intelligent or creative? This discussion session complements the prior lecture sessions [Thinking]({{< baseurl >}}/pages/thinking) and [Intelligence]({{< baseurl >}}/pages/intelligence).
+How do we think? What does it mean to be intelligent or creative? This discussion session complements the prior lecture sessions {{% resource_link 13877f0d-e096-cd97-097b-21b89a257f99 "Thinking" %}} and {{% resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Intelligence" %}}.
 
 
 {{< tdclose >}}
@@ -33,7 +37,7 @@ Demonstration
 
 ### Do We Think in Words or Pictures?
 
-Listen as Tyler poses one of the big questions in early psychology: _do we think in words or pictures_? ([MP3]({{< baseurl >}}/resources/thinking_disc_1)) (0:02:40)
+Listen as Tyler poses one of the big questions in early psychology: _do we think in words or pictures_? ({{% resource_link a672bbc6-aedf-45a2-74e7-27d3f7442dad "MP3" %}}) (0:02:40)
 
 _Transcript_: "Thinking...mentally manipulating information. Who said that earlier? That's exactly right.
 
@@ -47,9 +51,9 @@ There's some interesting psychological evidence to show that we really do think 
 
 Mental rotation: So, when you're shown an abstract 3D shape and another abstract 3D shape, and you say, "Are these exactly the same?" But they're in different positions, and your job is to decide if they are exactly the same. How would you do this, if you had to think about it?
 
-![Diagram with two pairs of 3D block patterns in different rotations.]({{< resource_file 899ed9c1-06f1-ac81-80b2-af45639e1a7e >}})
+{{< resource 899ed9c1-06f1-ac81-80b2-af45639e1a7e >}}
 
-Figure 1. 3D Shapes for Spatial Rotation Task Test. (Courtesy of Flat World Knowledge. Source: \[[Stangor]({{< baseurl >}}/pages/syllabus#_Stangor_)\])
+Figure 1. 3D Shapes for Spatial Rotation Task Test. (Courtesy of Flat World Knowledge. Source: \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Stangor" "#_Stangor_" %}}\])
 
 Would you measure it out in your mind, like, "Alright, we've got a right angle here, a right angle there, and these things project orthogonally? There's this whatever at the end."
 
@@ -59,11 +63,11 @@ How could we prove, using science, that you're really doing that in your head? W
 
 ### Experimental Evidence for Thinking in Pictures
 
-Listen next as Tyler describes how experiments have shown that people are truly thinking in pictures: ([MP3]({{< baseurl >}}/resources/thinking_disc_2)) (0:01:27)
+Listen next as Tyler describes how experiments have shown that people are truly thinking in pictures: ({{% resource_link 5c6a4582-dce0-08b8-a714-408f21413264 "MP3" %}}) (0:01:27)
 
 _Transcript_: "Let's think about it for a second. If I give you two L-shapes, like this and like this, so they're just a little bit off, and you rotate them to show me that they're the same. On paper, if I give you these two things, these two objects in front of you, how long is it going to take you to show that these two are the same?
 
-![Diagram of two L shapes, one rotated just a few degrees from the other.]({{< resource_file 15304ce3-a834-115e-43f5-fcee69e7a65f >}})
+{{< resource 15304ce3-a834-115e-43f5-fcee69e7a65f >}}
 
 Figure 2a. L-shape patterns with similar rotation.
 
@@ -71,7 +75,7 @@ Two seconds, right, because you go "er" and they're the same. You're amazing.
 
 What if I give you two L-shapes like this? How long is it going to take you to rotate them and prove that they're the same?
 
-![Diagram of two L shapes, one rotated about 180 degrees from the other.]({{< resource_file 7b054ac9-88f9-f164-1d04-b1d63f4c291c >}})
+{{< resource 7b054ac9-88f9-f164-1d04-b1d63f4c291c >}}
 
 Figure 2b. L-shape patterns with more rotation.
 
@@ -106,4 +110,4 @@ People have an idea about what a toy should be because of all the toys they’ve
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/intelligence)
+« {{% resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Previous" %}}

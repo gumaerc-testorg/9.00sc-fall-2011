@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: 'In this section, Prof. Gabrieli discusses how he uses lectures to inspire
+  students to engage with the material and master the details. '
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: b4984c35-7427-1ba3-965f-29e67252d227
 title: Crafting Lectures That Inspire and Inform
 uid: 8937ce49-d58f-a613-51a8-58a2a435010c

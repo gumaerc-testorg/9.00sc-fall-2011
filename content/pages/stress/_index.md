@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Stress
 uid: 7c2c180c-bd50-5e62-bbf0-62d2d4926cae
 ---
 
-« [Previous]({{< baseurl >}}/pages/adult-development) | [Next]({{< baseurl >}}/pages/psychopathology-i) »
+« {{% resource_link 16d028ce-a283-f227-fed3-766ed19d3957 "Previous" %}} | {{% resource_link 3d51e6ac-e4c7-aca1-640b-d0dc09600b04 "Next" %}} »
 
 Session Overview
 ----------------
@@ -12,7 +15,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photo of stress balls with different cartoon facial expressions on them.](/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/stress/lec19_chp.jpg)
+{{< resource "2cf8f0f9-1607-979c-4c97-ea915322d0a2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,32 +41,32 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   **One** of the following textbook chapters:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 10, "Stress, Health, and Coping : Dealing With Life"
-        *   [Study outline for K&R Chapter 10 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr10)
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Section 10.2 in Chapter 10, "Emotion and Motivations"
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 10, "Stress, Health, and Coping : Dealing With Life"
+        *   {{% resource_link fdc05826-e602-d432-7164-eaaf14129f11 "Study outline for K&R Chapter 10 (PDF)" %}}
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Section 10.2 in Chapter 10, "Emotion and Motivations"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 19: Stress]({{< baseurl >}}/resources/lecture-19-stress)
+> *   {{% resource_link "536f8217-3aef-e71f-a1b0-452e52f1ac4b" "Lecture 19: Stress" %}}
 > 
 > ### View by Chapter
 > 
-> *   [Concepts of Stress]({{< baseurl >}}/resources/concepts-of-stress)
-> *   [Physical Stress Mechanism and Its Effects]({{< baseurl >}}/resources/physical-stress-mechanism-and-its-effects)
-> *   [Psychological Modifiers of the Stress Response]({{< baseurl >}}/resources/psychological-modifiers-of-the-stress-response)
-> *   [Embodied Cognition]({{< baseurl >}}/resources/embodied-cognition)
-> *   [Stereotypes and Stress]({{< baseurl >}}/resources/stereotypes-and-stress)
+> *   {{% resource_link a412bc98-2267-d790-5e3e-80177ab18559 "Concepts of Stress" %}}
+> *   {{% resource_link "09aa83eb-a594-6904-2bad-25b463959314" "Physical Stress Mechanism and Its Effects" %}}
+> *   {{% resource_link "03932d1c-fa95-1258-37ff-f8bf72ccc30b" "Psychological Modifiers of the Stress Response" %}}
+> *   {{% resource_link "52ef5c67-c063-9234-9891-68b0d58ef414" "Embodied Cognition" %}}
+> *   {{% resource_link "d5ef317b-55cc-958b-5fdb-25732288649e" "Stereotypes and Stress" %}}
 > 
 > ### Video Resources
 > 
-> *   [Lecture Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit9_00scf11_lec19_stress)
+> *   {{% resource_link 2770e445-a477-4d40-b46b-e241a6909f14 "Lecture Slides (PDF - 1.8MB)" %}}
 
 Discussion: Stress
 ------------------
 
-So, let's talk a little bit about the science of stress, the psychology of stress, and the physiology of stress. What's going on when you say, "I'm stressed out" – what does that mean from a biological and a cognitive perspective?… [Read more »]({{< baseurl >}}/pages/stress/discussion-stress)
+So, let's talk a little bit about the science of stress, the psychology of stress, and the physiology of stress. What's going on when you say, "I'm stressed out" – what does that mean from a biological and a cognitive perspective?… {{% resource_link eb5da804-5a2a-1df9-f243-8af807f2017b "Read more »" %}}
 
 Check Yourself
 --------------
@@ -146,7 +149,7 @@ Book that Prof. Gabrieli recommends in class
 Participate in research
 {{< tdclose >}}
 {{< tdopen >}}
-Project Implicit® Implicit Association Tests, [http://implicit.harvard.edu/](http://implicit.harvard.edu/).
+Project Implicit{{< sup "®" >}} Implicit Association Tests, [http://implicit.harvard.edu/](http://implicit.harvard.edu/).
 {{< tdclose >}}
 {{< tdopen >}}
 Educational resource and research site for investigations in implicit social cognition, including more demonstrations and opportunities to participate in ongoing research.
@@ -168,4 +171,4 @@ Practice test questions, flashcards, and media for a related textbook
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/adult-development) | [Next]({{< baseurl >}}/pages/psychopathology-i) »
+« {{% resource_link 16d028ce-a283-f227-fed3-766ed19d3957 "Previous" %}} | {{% resource_link 3d51e6ac-e4c7-aca1-640b-d0dc09600b04 "Next" %}} »

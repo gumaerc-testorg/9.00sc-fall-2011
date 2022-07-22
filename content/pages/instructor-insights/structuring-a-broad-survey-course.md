@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Prof. Gabrieli presents his approach to offering a broad
+  and comprehensive introduction to the discipline of psychology, while also including
+  salient details in his lectures.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: b4984c35-7427-1ba3-965f-29e67252d227
 title: Structuring a Broad Survey Course
 uid: 54378383-2e19-5046-fc73-49997af088ba

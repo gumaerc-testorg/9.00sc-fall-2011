@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Vision II
+parent_type: CourseSection
 parent_uid: 1a9cef0b-4270-5f26-8826-24e84aceb1db
 title: Writing Assignment 1
 uid: f3463455-6b38-505f-cc40-71a3b43caa1b
 ---
 
-« [Previous]({{< baseurl >}}/pages/vision-ii)
+« {{% resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Previous" %}}
 
 **Topic:** Are studies of cognitive and emotional developments in adolescents useful for setting public policy guidelines?
 
@@ -16,7 +20,7 @@ To begin this assignment, you will read three sources (full citations and abstra
 2.  A criticism of this position by Fischer et al., who have a different perspective on how public policy should take into account emotional and cognitive development in juveniles; and,
 3.  A rebuttal of the Fischer position by Steinberg et al.
 
-Review the writing assignment guidelines given on the [Syllabus]({{< baseurl >}}/pages/syllabus#WA). Your specific goal for Writing Assignment 1 is to analyze the arguments in the three papers, construct a coherent argument about the role of studies of cognitive and emotional development in setting public policy guidelines, and support this argument with specific evidence from the papers. A number of different approaches to this topic can satisfy the requirements of this writing assignment. For example, your thesis might address:
+Review the writing assignment guidelines given on the {{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Syllabus" "#WA" %}}. Your specific goal for Writing Assignment 1 is to analyze the arguments in the three papers, construct a coherent argument about the role of studies of cognitive and emotional development in setting public policy guidelines, and support this argument with specific evidence from the papers. A number of different approaches to this topic can satisfy the requirements of this writing assignment. For example, your thesis might address:
 
 *   In what circumstances can psychological research on cognitive and emotional development be used to set public policy?
 *   When, if ever, should public policy distinguish between cognitive and emotional development and why (or why not)?
@@ -41,4 +45,4 @@ Steinberg, L., et al. (2009b) "[Reconciling the Complexity of Human Development 
 
 > _Abstract_: "The authors respond to both the general and specific concerns raised in Fischer, Stein, and Heikkinen's (see record 2009-18110-002 ) commentary on their article (Steinberg, Cauffman, Woolard, Graham, & Banich) (see record 2009-18110-001 ), in which they drew on studies of adolescent development to justify the American Psychological Association's positions in two Supreme Court cases involving the construction of legal age boundaries. In response to Fischer et al.'s general concern that the construction of bright-line age boundaries is inconsistent with the fact that development is multifaceted, variable across individuals, and contextually conditioned, the authors argue that the only logical alternative suggested by that perspective is impractical and unhelpful in a legal context. In response to Fischer et al.'s specific concerns that their conclusion about the differential timetables of cognitive and psychosocial maturity is merely an artifact of the variables, measures, and methods they used, the authors argue that, unlike the alternatives suggested by Fischer et al., their choices are aligned with the specific capacities under consideration in the two cases. The authors reaffirm their position that there is considerable empirical evidence that adolescents demonstrate adult levels of cognitive capability several years before they evince adult levels of psychosocial maturity."
 
-« [Previous]({{< baseurl >}}/pages/vision-ii)
+« {{% resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Previous" %}}

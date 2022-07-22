@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Adult Development
+parent_type: CourseSection
 parent_uid: 16d028ce-a283-f227-fed3-766ed19d3957
 title: 'Discussion: Development'
 uid: 37308ab8-c07c-99c4-b518-1a3374f68ecb
 ---
 
-« [Previous]({{< baseurl >}}/pages/adult-development)
+« {{% resource_link 16d028ce-a283-f227-fed3-766ed19d3957 "Previous" %}}
 
 Discussion
 ----------
@@ -60,4 +64,4 @@ The shrinking of the hippocampus and the frontal lobes is correlated with impair
 
 In a _longitudinal study_, you would test the same group of people repeatedly throughout their lives. In a _cross-sectional study_, you would test different groups of people at the same time, with each group composed of individuals of the same age. List two pros and two cons of each design for memory research. Which would you recommend?
 
-« [Previous]({{< baseurl >}}/pages/adult-development)
+« {{% resource_link 16d028ce-a283-f227-fed3-766ed19d3957 "Previous" %}}

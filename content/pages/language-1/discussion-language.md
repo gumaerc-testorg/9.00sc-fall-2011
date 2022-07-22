@@ -1,17 +1,21 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Language
+parent_type: CourseSection
 parent_uid: 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf
 title: 'Discussion: Language'
 uid: a024ee23-8c4f-fa34-78d4-a55e94731f03
 ---
 
-« [Previous]({{< baseurl >}}/pages/language-1)
+« {{% resource_link 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf "Previous" %}}
 
 Session Overview
 ----------------
 
-How do I move meaning from my mind to yours? This discussion session complements the [Language]({{< baseurl >}}/pages/language-1) lecture session.
+How do I move meaning from my mind to yours? This discussion session complements the {{% resource_link 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf "Language" %}} lecture session.
 
 Discussion
 ----------
@@ -31,7 +35,7 @@ _Phonology_ is the structure of the sounds that make up the words of a language.
 
 But think about two things. One, there's a lot of sounds that we can make (whistles, coughs, snorts, etc.) that aren't linguistic. Two, there's incredible variety in how the people around us pronounce the "same" sound. Think about people speaking with different accents, or how you sound when you have a cold. How does the brain handle this?
 
-Listen to Tyler describe and demonstrate the phenomenon of _categorical perception_: ([MP3]({{< baseurl >}}/resources/lang_disc)) (0:02:40)  
+Listen to Tyler describe and demonstrate the phenomenon of _categorical perception_: ({{% resource_link d5adcb19-ef26-a39e-2de7-c3a6ec704258 "MP3" %}}) (0:02:40)  
 (Includes recorded demonstrations of "bad/bat" and "slash/splash" courtesy of UCLA Phonetics Lab, used with permission. The original recordings, and many others like them, are available at Peter Ladefoged's website [Vowels and Consonants](http://www.phonetics.ucla.edu/vowels/chapter10/percpetial.html).)
 
 Demonstration
@@ -77,4 +81,4 @@ Think About
 
 Is language unique to humans? Most pet owners believe they know exactly what their cats and dogs are trying to "tell" them through barking and scratching and purring. Of course, a number of researchers have tried various means of teaching language to primates such as gorillas and chimpanzees. Some animals have been taught to combine abstract shapes and even use sign language, but referring to these forms of communication as 'language' has been controversial. What criteria would you say defines true language?
 
-« [Previous]({{< baseurl >}}/pages/language-1)
+« {{% resource_link 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf "Previous" %}}

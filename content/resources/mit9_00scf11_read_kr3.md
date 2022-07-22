@@ -2,9 +2,16 @@
 content_type: resource
 description: 'This resource contains information related to sensation and perception:
   how the world enters the mind.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-00sc-introduction-to-psychology-fall-2011/1fad72069961bd957888249ee39494d2_MIT9_00SCF11_read_kr3.pdf
+file: /courses/9-00sc-introduction-to-psychology-fall-2011/1fad72069961bd957888249ee39494d2_MIT9_00SCF11_read_kr3.pdf
 file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Vision I
+parent_type: CourseSection
+parent_uid: 6006b7d1-2269-c4a2-b231-88660361c816
 resourcetype: Document
 title: MIT9_00SCF11_read_kr3.pdf
 uid: 1fad7206-9961-bd95-7888-249ee39494d2
 ---
+This resource contains information related to sensation and perception: how the world enters the mind.

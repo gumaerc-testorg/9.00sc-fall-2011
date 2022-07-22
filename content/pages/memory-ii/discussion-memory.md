@@ -1,17 +1,21 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Memory II: Amnesia and Memory Systems'
+parent_type: CourseSection
 parent_uid: 09f6f277-0863-76d7-7bf9-7f807f53d99f
 title: 'Discussion: Memory'
 uid: f532f8a4-70da-048e-aaf5-8954f43c338e
 ---
 
-« [Previous]({{< baseurl >}}/pages/memory-ii)
+« {{% resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Previous" %}}
 
 Session Overview
 ----------------
 
-How do we carry information forward in time? This discussion session complements the prior lecture sessions [Memory I]({{< baseurl >}}/pages/memory-i) and [Memory II]({{< baseurl >}}/pages/memory-ii).
+How do we carry information forward in time? This discussion session complements the prior lecture sessions {{% resource_link 3f7aca32-309e-ae8c-98f0-cbd01eab2677 "Memory I" %}} and {{% resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Memory II" %}}.
 
 Demonstration
 -------------
@@ -24,7 +28,7 @@ Before jumping into the discussion of topics related to memory, try this brief d
 
 {{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
-![image1.jpg]({{< resource_file 1086a5ac-abb2-1250-1bcc-21964183f6c1 >}})  
+{{< resource 1086a5ac-abb2-1250-1bcc-21964183f6c1 >}}  
 © source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
 {{< /div-with-class >}}
@@ -54,13 +58,13 @@ There are several different types of memory systems in the brain which accomplis
 
 A good example of sensory memory would be if I showed you a bunch of letters just for a second and asked you to report as many of them as you could.
 
-![image2.jpg]({{< resource_file 6b285af3-63e3-01d5-0ff8-34bd5cb89dc2 >}})
+{{< resource 6b285af3-63e3-01d5-0ff8-34bd5cb89dc2 >}}
 
 Most people can report the first four or five, and it seems like they just can't take in any more information so quickly. But a carefully-designed experiment can show that sensory memory has much more capacity than you'd think. In one study, the same letters were flashed, but a high-, medium-, or low-pitched tone was played immediately after, indicating which of the three rows to report. As it turns out, you can report any of the rows with pretty good accuracy. The idea is that our sensory memory is very good. It can store a lot of information, but it fades very rapidly. The transmission of information from sensory memory to short-term memory (which enables you to say the names of the letters) is constrained. You just can't say all of the letters you saw before that sensory memory decays.
 
 Short-term memory is the kind of memory that requires active maintenance, like looking up a phone number and repeating it to yourself until you can dial it. It's transient, it requires maintenance, and it only lasts a couple of seconds. Long-term memory, though, brings us to the topic of forgetting, and to Ebbinghaus, who invented and memorized word lists. On the first day he'd remember most of them; on the second day, not as many; on the third day, not as many; and so on and so on. And he discovered this power law relationship (the "forgetting curve") between what you need to know and how much time has elapsed, which seems to be an intrinsic property of human memory.
 
-![Graph, image, word list.]({{< resource_file b6b49541-0eab-02cd-3a7e-08a2aea490d5 >}})
+{{< resource b6b49541-0eab-02cd-3a7e-08a2aea490d5 >}}
 
 Image by MIT OpenCourseWare.
 
@@ -69,7 +73,7 @@ Critical Thinking
 
 The graph below depicts the results of an experiment in which participants had to remember 15 items. Take a look at the graph and describe the results for both the 0-second delay condition and the 30-second delay condition.
 
-![image4.jpg]({{< resource_file 0f64f824-5e5c-1cb7-920b-dbcbde36cb79 >}})
+{{< resource 0f64f824-5e5c-1cb7-920b-dbcbde36cb79 >}}
 
 © source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
@@ -94,12 +98,12 @@ Discussion
 
 Another way to classify memory is by whether it's _implicit_ or _explicit_. _Explicit memory_ is stuff that we could recall if we were asked to recall it, whereas _implicit memory_ is stuff that you do without any active representation or self-description. Implicit memory includes habits (stepping on the brake when you see a red light), skills (riding a bike), priming, and classical conditioning.
 
-Now might be a good time to review the difference between classical conditioning and operant conditioning. (Return to [Discussion: Learning]({{< baseurl >}}/pages/learning/discussion-learning) if you need a refresher.) Why is classical conditioning considered implicit memory, while operant conditioning is explicit?
+Now might be a good time to review the difference between classical conditioning and operant conditioning. (Return to {{% resource_link dd2585a0-41b8-80df-fe5a-97414e3b4d5e "Discussion: Learning" %}} if you need a refresher.) Why is classical conditioning considered implicit memory, while operant conditioning is explicit?
 
 Demonstration: Implicit Memory
 ------------------------------
 
-Listen as Tyler introduces the demonstration: ([MP3]({{< baseurl >}}/resources/memory_disc_1)) (0:00:40)
+Listen as Tyler introduces the demonstration: ({{% resource_link c32db912-ada1-8c52-c21c-fc84111e7b3a "MP3" %}}) (0:00:40)
 
 Then click to reveal a game.
 
@@ -122,7 +126,7 @@ A\_\_A\_\_IN
 
 {{< /div-with-class >}}
 
-After you've played the game, listen to Tyler's explanation: ([MP3]({{< baseurl >}}/resources/memory_disc_2)) (0:03:12)
+After you've played the game, listen to Tyler's explanation: ({{% resource_link 78eb6844-c285-f61a-92d8-ca230ed5bbf7 "MP3" %}}) (0:03:12)
 
 {{< div-with-class "reveal5">}}
 
@@ -145,7 +149,7 @@ Remember those faces that you saw at the beginning of the discussion? Let's test
 
 {{< /div-with-class >}}{{< div-with-class "toggle6">}}
 
-![image5.jpg]({{< resource_file a7ebdb05-4904-d828-009b-8ba8aeb48cb2 >}})  
+{{< resource a7ebdb05-4904-d828-009b-8ba8aeb48cb2 >}}  
 © source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
 {{< /div-with-class >}}
@@ -158,9 +162,9 @@ How did you do?
 
 {{< /div-with-class >}}{{< div-with-class "toggle7">}}
 
-![image6.jpg]({{< resource_file 660bd06d-5373-8148-2bfa-019c428d17d5 >}})  
+{{< resource 660bd06d-5373-8148-2bfa-019c428d17d5 >}}  
 © source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/memory-ii)
+« {{% resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Previous" %}}
