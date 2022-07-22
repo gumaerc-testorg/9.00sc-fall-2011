@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Optical illusion of white grid on black background, with apparent flashing
     black dots in the grid crossings.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Introduction
 parent_type: CourseSection

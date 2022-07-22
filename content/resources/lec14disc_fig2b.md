@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Diagram of two L shapes, one rotated about 180 degrees from the other.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Discussion: Thinking & Intelligence'
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: This resource contains information related to consciousness.
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/2211e2452a9bc47afce5b7a2179e4083_MIT9_00SCF11_lec08_consc.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Consciousness
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT9_00SCF11_lec08_consc.pdf
 uid: 2211e245-2a9b-c47a-fce5-b7a2179e4083
 ---
 This resource contains information related to consciousness.
-

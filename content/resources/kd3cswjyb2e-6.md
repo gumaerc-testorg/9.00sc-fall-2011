@@ -4,6 +4,7 @@ description: ''
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/ede64b507af33227768b71dbc7652d6d_kD3CswjYb2E.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

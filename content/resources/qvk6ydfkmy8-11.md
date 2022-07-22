@@ -4,6 +4,7 @@ description: ''
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/9e47aef9b886932fadaa13a0487d8b4c_QvK6YdFKMY8.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

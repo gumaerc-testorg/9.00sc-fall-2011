@@ -4,6 +4,7 @@ description: This resource contains solution to the problem set related to exam 
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/2aa4e53319de1efd3e82b755b5af6201_MIT9_00SCF11_exam1_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exam 1
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT9_00SCF11_exam1_sol.pdf
 uid: 2aa4e533-19de-1efd-3e82-b755b5af6201
 ---
 This resource contains solution to the problem set related to exam 1.
-
