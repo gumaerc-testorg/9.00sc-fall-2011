@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '2363'
 file: null
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -22,5 +29,6 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/MYMYXhR2Ppw/default.jpg
   video_transcript_file: /courses/9-00sc-introduction-to-psychology-fall-2011/fec972a3bb2cf3e017866b23ad07a108_MYMYXhR2Ppw.pdf
 video_metadata:
+  video_speakers: ''
   youtube_id: MYMYXhR2Ppw
 ---

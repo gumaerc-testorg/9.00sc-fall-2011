@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '293'
 file: null
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +21,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: '27'
-title: 'Goals of the Course '
+title: Goals of the Course
 uid: 99668c88-08ae-0a8f-01e8-694a009f477b
 video_files:
   archive_url: http://www.archive.org/download/MIT9.00SCF11/MIT9_00SCF11_lec01_300k.mp4
