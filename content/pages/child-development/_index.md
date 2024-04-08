@@ -24,7 +24,7 @@ Do you remember your life as a young child? What capabilities to infants have? W
 
 _Keywords_: child development, Piaget, nature/nurture, neotony
 
-_Photo courtesy of [Adam Baker](http://www.flickr.com/photos/atbaker/3350580540) on Flickr. CC-BY._
+_Photo courtesy of {{% resource_link "4c09ebf5-8de4-4351-aa42-289211dd023a" "Adam Baker" %}} on Flickr. CC-BY._
 
 
 {{< tdclose >}}
@@ -131,7 +131,7 @@ CONTEXT
 Webpage
 {{< tdclose >}}
 {{< tdopen >}}
-[Infant Cognition Lab](http://labs.psychology.illinois.edu/infantlab/)
+{{% resource_link "8440639f-3b77-4df4-867a-7700748baaa9" "Infant Cognition Lab" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 A University of Illinois lab, headed by Dr. Renée Baillargeon, focusing on cognitive development during the first three years of life.
@@ -143,7 +143,7 @@ A University of Illinois lab, headed by Dr. Renée Baillargeon, focusing on cogn
 Article
 {{< tdclose >}}
 {{< tdopen >}}
-Scott, Paul. "[Kid Rock](http://www.nytimes.com/2006/04/02/magazine/02wiggles.html?pagewanted=all)." New York Times Magazine. April 2, 2006.
+Scott, Paul. "{{% resource_link "f46d97e4-4d24-487a-bd88-945bc47aa154" "Kid Rock" %}}." New York Times Magazine. April 2, 2006.
 {{< tdclose >}}
 {{< tdopen >}}
 An article on "The Wiggles," a music group that writes music and performs for young children.
@@ -155,7 +155,7 @@ An article on "The Wiggles," a music group that writes music and performs for yo
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 12 "Psychology Over the Lifespan: Growing Up, Growing Older, Growing Wiser." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 12 "Psychology Over the Lifespan: Growing Up, Growing Older, Growing Wiser." In {{% resource_link "d154b82d-6bf3-4c1e-a9f0-fbebf0f3676c" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

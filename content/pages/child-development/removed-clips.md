@@ -15,7 +15,7 @@ uid: a2d38cc6-8bc4-816f-949a-4be4efa32027
 Removed Clip 1: A video demonstrating how young children understand object permanence
 -------------------------------------------------------------------------------------
 
-See [YouTube](http://www.youtube.com/results?search_query=object+permanence&oq=object+permanence&aq=f&aqi=g4&aql=&gs_sm=3&gs_upl=406970l411316l0l411393l19l18l1l9l10l0l248l1230l2.5.1l8l0) for similar videos.
+See {{% resource_link "23c12c1b-68e2-4496-bd93-c4f77e06bdbd" "YouTube" %}} for similar videos.
 
 Removed Clip 2: A video about Renee Baillargeon's children's show Magical Events
 --------------------------------------------------------------------------------
@@ -24,12 +24,12 @@ The video shown in class is not available online, however Vanderbilt University 
 
 {{< resource d4a30b4c-eb1a-1ca4-1ac8-b2141fefdbdc >}}
 
-This video is from [Vanderbilt University](http://www.youtube.com/user/VanderbiltUniversity?feature=watch) on YouTube and is not provided under our [Creative Commons license](/terms/#cc).
+This video is from {{% resource_link "7a2d3435-e292-4e6f-90e7-e6ff463e45fc" "Vanderbilt University" %}} on YouTube and is not provided under our [Creative Commons license](/terms/#cc).
 
 Removed Clip 3: A video about how young children understand conservation
 ------------------------------------------------------------------------
 
-See [YouTube](http://www.youtube.com/results?search_query=piaget+conservation&oq=piaget+conservation&aq=f&aqi=g9&aql=&gs_sm=3&gs_upl=3794l6322l0l6649l19l17l0l8l8l0l201l1320l2.6.1l9l0) for similar videos.
+See {{% resource_link "7b823c29-75e8-47b3-9b06-3e3867114119" "YouTube" %}} for similar videos.
 
 Removed Clip 4: "A Change of Mind"
 ----------------------------------
