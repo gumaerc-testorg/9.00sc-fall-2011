@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: Brain II session.
 draft: false
 title: 'Brain II: Methods of Research'
 uid: 6026acd4-95f8-e039-d1e8-11a66efa90b3
@@ -51,7 +51,7 @@ Read the following before watching the lecture video.
 > 
 > ### Video Resources
 > 
-> - Higher resolution version of animation played during lecture: cortical brain growth, ages 4 to 21, top view ([MOV](http://www.pnas.org/content/101/21/8174/suppl/DC1#F3)). From Gogtay, N., et al. "[Dynamic Mapping of Human Cortical Development During Childhood Through Early Adulthood](http://dx.doi.org/10.1073/pnas.0402680101)." _PNAS_ 101, no. 21 (2004): 8174-9.
+> - Higher resolution version of animation played during lecture: cortical brain growth, ages 4 to 21, top view ({{% resource_link "3b357487-ba67-4ef8-bdc1-107f3fd0fdd8" "MOV" %}}). From Gogtay, N., et al. "{{% resource_link "5cb60fe5-1ee9-4ac2-8759-957ba534311d" "Dynamic Mapping of Human Cortical Development During Childhood Through Early Adulthood" %}}." _PNAS_ 101, no. 21 (2004): 8174-9.
 > - {{% resource_link e6fd1fa0-b4e0-a529-0f3a-1aeb3ccb0f43 "Lecture Slides (PDF - 4.5MB)" %}}
 
 ## Discussion: Brain
@@ -95,25 +95,25 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Video
 {{< tdclose >}}{{< tdopen >}}
-"[Jill Bolte Taylor's stroke of insight](http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html)." February. 2008. TED Talks. Accessed August. 19, 2011. \[00:18:42\]
+"{{% resource_link "80a020ce-8188-4822-99fc-cc636992e9fc" "Jill Bolte Taylor's stroke of insight" %}}." February. 2008. TED Talks. Accessed August. 19, 2011. \[00:18:42\]
 {{< tdclose >}}{{< tdopen >}}
 A neuroscientist describes her experience having a massive stroke and subsequent recovery
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Web resource
 {{< tdclose >}}{{< tdopen >}}
-Johnson, K. A., and J. A. Becker. [The Whole Brain Atlas](http://www.med.harvard.edu/AANLIB/home.html).
+Johnson, K. A., and J. A. Becker. {{% resource_link "fe1340c6-7dfa-4c04-b759-5063eda9358a" "The Whole Brain Atlas" %}}.
 {{< tdclose >}}{{< tdopen >}}
 Includes a detailed primer on neuroimaging and a library of brain images
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Video
 {{< tdclose >}}{{< tdopen >}}
-NIMHgov. "The Brain's Inner Workings Part II: Cognition." Aug. 12, 2009. YouTube. Accessed Feb. 14, 2012. [http://www.youtube.com/watch?v=PKj9i1qS08M](http://www.youtube.com/watch?v=PKj9i1qS08M)
+NIMHgov. "The Brain's Inner Workings Part II: Cognition." Aug. 12, 2009. YouTube. Accessed Feb. 14, 2012. {{% resource_link "e3718e74-9952-4195-aa99-8a343d1611e9" "http://www.youtube.com/watch?v=PKj9i1qS08M" %}}
 {{< tdclose >}}{{< tdopen >}}
 Short video on imaging techniques that illustrate the neurological basis of higher brain function
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Chapter 3, "The Biology of Mind and Behavior," in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
+Study materials for Chapter 3, "The Biology of Mind and Behavior," in {{% resource_link "d154b82d-6bf3-4c1e-a9f0-fbebf0f3676c" "Study Site for _Psychology in Context_, 3/e" %}} (Pearson Education, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

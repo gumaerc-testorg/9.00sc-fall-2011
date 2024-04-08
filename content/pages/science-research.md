@@ -1,16 +1,16 @@
 ---
 content_type: page
-description: ''
+description: Science & research session.
 draft: false
 title: Science & Research
 uid: c4fbf121-480b-0561-6896-19683bc576cf
 ---
-« {{% resource_link c5c3533b-2688-5392-8ef7-cf5bea62d6a4 "Previous" %}} | {{% resource_link bed1d5fc-a69c-1587-2254-555a74b510d1 "Next" %}} »
+« {{% resource_link "c5c3533b-2688-5392-8ef7-cf5bea62d6a4" "Previous" %}} | {{% resource_link "bed1d5fc-a69c-1587-2254-555a74b510d1" "Next" %}} »
 
 ## Session Overview
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 944e8f93-3a52-055b-5fe3-a6506ee322d9 >}}
+{{< resource uuid="944e8f93-3a52-055b-5fe3-a6506ee322d9" >}}
 {{< tdclose >}}{{< tdopen >}}
 
 How do we study particular topics in psychology? How is scientific psychology different from "common sense" or "folk" psychology? This session examines the research methods necessary to develop and test ideas, and highlights how even widely-discussed scientific studies can fall short of the truth.
@@ -27,29 +27,29 @@ How do we study particular topics in psychology? How is scientific psychology di
 
 Read the following before watching the lecture video.
 
-- \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#_Sacks_" %}}\] Chapter 19, "Murder" (pp. 161-165)
+- \[{{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "Sacks" "#_Sacks_" %}}\] Chapter 19, "Murder" (pp. 161-165)
 - **One** of the following textbook chapters:
-    - Finish \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 1, "Introduction to the Science of Psychology: History and Research Methods"
-        - {{% resource_link e37ac097-cb76-f267-10cd-c5ab47efa47a "Study outline for K&R Chapter 1 (PDF)" %}}
+    - Finish \[{{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "K&R" "#_K_R_" %}}\] Chapter 1, "Introduction to the Science of Psychology: History and Research Methods"
+        - {{% resource_link "e37ac097-cb76-f267-10cd-c5ab47efa47a" "Study outline for K&R Chapter 1 (PDF)" %}}
     - \[{{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "Stangor" "#_Stangor_" %}}\] Chapter 2, "Psychological Science"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> - {{% resource_link 8420b65a-b868-a035-3580-c815f85224d5 "Lecture 2: Science and Research" %}}
+> - {{% resource_link "8420b65a-b868-a035-3580-c815f85224d5" "Lecture 2: Science and Research" %}}
 > 
 > ### View by Chapter
 > 
-> - {{% resource_link 5d74b609-3f5d-b2c8-3c67-10ba96921a44 "Psychology and Science" %}}
-> - {{% resource_link d7f5ead1-56dd-fddb-dcb0-50a6f99316e3 "What Makes Something an Experiment?" %}}
-> - {{% resource_link 23adcde8-4ec8-f0f6-8a53-fb3f716c4aaf "Psychology Experiments and the Real World" %}}
-> - {{% resource_link e8ba9f1e-3fc9-c426-44b0-d269a94c7169 "Little Things Can Influence Behavior" %}}
-> - {{% resource_link 99c9af80-b8ae-b2fb-1e93-9adc0fb2314b "Folk Psychology and Scientific Psychology" %}}
+> - {{% resource_link "5d74b609-3f5d-b2c8-3c67-10ba96921a44" "Psychology and Science" %}}
+> - {{% resource_link "d7f5ead1-56dd-fddb-dcb0-50a6f99316e3" "What Makes Something an Experiment?" %}}
+> - {{% resource_link "23adcde8-4ec8-f0f6-8a53-fb3f716c4aaf" "Psychology Experiments and the Real World" %}}
+> - {{% resource_link "e8ba9f1e-3fc9-c426-44b0-d269a94c7169" "Little Things Can Influence Behavior" %}}
+> - {{% resource_link "99c9af80-b8ae-b2fb-1e93-9adc0fb2314b" "Folk Psychology and Scientific Psychology" %}}
 > 
 > ### Video Resources
 > 
-> - {{% resource_link 5ff7eb67-85f0-5757-99a6-5af146ea17d2 "Lecture Slides (PDF)" %}}
+> - {{% resource_link "5ff7eb67-85f0-5757-99a6-5af146ea17d2" "Lecture Slides (PDF)" %}}
 
 ## Check Yourself
 
@@ -57,25 +57,25 @@ Read the following before watching the lecture video.
 
 Question 1
 
-{{< quiz_multiple_choice questionId="MCQ1" >}}Which of the following characteristics of experimental design ensure causation when done correctly? {{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}Being sure to have both a dependent and independent variables.{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}Dividing people into two or more conditions through random assignment.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Doing a statistical analysis of the data.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Making sure that all participants are identical.{{< /quiz_choice >}} {{< /quiz_choices >}}{{< quiz_solution / >}}{{< /quiz_multiple_choice >}}
+{{< quiz_multiple_choice questionId="MCQ1" >}}Which of the following characteristics of experimental design ensure causation when done correctly? {{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}Being sure to have both a dependent and independent variables.{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}Dividing people into two or more conditions through random assignment.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Doing a statistical analysis of the data.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Making sure that all participants are identical.{{< /quiz_choice >}} {{< /quiz_choices >}}{{< quiz_solution />}}{{< /quiz_multiple_choice >}}
 
 Question 2
 
-{{< quiz_multiple_choice questionId="MCQ2" >}}Which of the following types of experimental validity refers to results of a specific experiment that can be generalized to other contexts? {{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}Construct validity{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}External validity{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Internal validity{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Researcher validity{{< /quiz_choice >}} {{< /quiz_choices >}}{{< quiz_solution / >}}{{< /quiz_multiple_choice >}}
+{{< quiz_multiple_choice questionId="MCQ2" >}}Which of the following types of experimental validity refers to results of a specific experiment that can be generalized to other contexts? {{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}Construct validity{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}External validity{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Internal validity{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Researcher validity{{< /quiz_choice >}} {{< /quiz_choices >}}{{< quiz_solution />}}{{< /quiz_multiple_choice >}}
 
 Question 3
 
-{{< quiz_multiple_choice questionId="MCQ3" >}}What type of design prevents biased results due to either the researcher or the participants? {{< quiz_choices >}}{{< quiz_choice isCorrect="true" >}}Double blind design{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Meta-analysis design{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Random assignment design{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Replication design{{< /quiz_choice >}} {{< /quiz_choices >}}{{< quiz_solution / >}}{{< /quiz_multiple_choice >}}
+{{< quiz_multiple_choice questionId="MCQ3" >}}What type of design prevents biased results due to either the researcher or the participants? {{< quiz_choices >}}{{< quiz_choice isCorrect="true" >}}Double blind design{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Meta-analysis design{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Random assignment design{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Replication design{{< /quiz_choice >}} {{< /quiz_choices >}}{{< quiz_solution />}}{{< /quiz_multiple_choice >}}
 
 ### Short Essay
 
 When conducting psychological research there are three main research designs that researchers use. All three research designs can collect, analyze and interpret data, but each have important differences. Name and describe each of the three research designs. Describe the advantages and disadvantages of each design. Give a research example of each design.
 
-{{< div-with-class "reveal1">}}
+{{< div-with-class "reveal1" >}}
 
 › *Sample Answer*
 
-{{< /div-with-class >}}{{< div-with-class "toggle1">}}
+{{< /div-with-class >}}{{< div-with-class "toggle1" >}}
 
 The three research designs are **descriptive research**, **correlational research**, and **experimental research**.
 
@@ -100,33 +100,33 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Video
 {{< tdclose >}}{{< tdopen >}}
-"[Correlation and Causation](http://www.khanacademy.org/video/correlation-and-causality?playlist=Statistics)." Kahn Academy.
+"{{% resource_link "4ebbe8c5-3e54-4b1e-8365-7923ee017463" "Correlation and Causation" %}}." Kahn Academy.
 {{< tdclose >}}{{< tdopen >}}
 Good background on this fundamental concept in scientfic research
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Blog
 {{< tdclose >}}{{< tdopen >}}
-[Bad Science](http://www.badscience.net/)
+{{% resource_link "68f2e2f0-25be-46f5-b844-43bc61f21adf" "Bad Science" %}}
 {{< tdclose >}}{{< tdopen >}}
 Dr. Ben Goldacre, epidemiolgist and columnist for the Guardian UK, examines "bad science \[as the\] best way to explain good science."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Blog
 {{< tdclose >}}{{< tdopen >}}
-[Neuroskeptic](http://neuroskeptic.blogspot.com/)
+{{% resource_link "843be1ee-4a22-4866-9479-46844e7cee29" "Neuroskeptic" %}}
 {{< tdclose >}}{{< tdopen >}}
 "A neuroscientist takes a skeptical look at his own field, and beyond."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Web activity
 {{< tdclose >}}{{< tdopen >}}
-[Research Methods: From Question to Conclusion](http://www.learner.org/discoveringpsychology/brain/). *Discovering Psychology.* WGBH Educational Foundation, 2001.
+{{% resource_link "67a8c462-0f8f-42c8-827e-1ccd19539676" "Research Methods: From Question to Conclusion" %}}. *Discovering Psychology.* WGBH Educational Foundation, 2001.
 {{< tdclose >}}{{< tdopen >}}
 Interactive quiz about how psychological research is conducted.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Chapter 1, "Psychology: Yesterday and Today." In [Kosslyn & Rosenberg, *Psychology in Context*, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Chapter 1, "Psychology: Yesterday and Today." In {{% resource_link "d154b82d-6bf3-4c1e-a9f0-fbebf0f3676c" "Kosslyn & Rosenberg, *Psychology in Context*, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-« {{% resource_link c5c3533b-2688-5392-8ef7-cf5bea62d6a4 "Previous" %}} | {{% resource_link bed1d5fc-a69c-1587-2254-555a74b510d1 "Next" %}} »
+« {{% resource_link "c5c3533b-2688-5392-8ef7-cf5bea62d6a4" "Previous" %}} | {{% resource_link "bed1d5fc-a69c-1587-2254-555a74b510d1" "Next" %}} »
