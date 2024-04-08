@@ -111,7 +111,7 @@ Watch the following PBS video blog to see an experiment and explanation of the p
 
 ### Inattentional Blindness
 
-To experience another limitation of your attention, watch [this video clip](http://people.usd.edu/~schieber/coglab/Rensink.html). Can you figure out how the two scenes differ?
+To experience another limitation of your attention, watch {{% resource_link "f36215ab-5187-4759-8d42-ac850d3facc8" "this video clip" %}}. Can you figure out how the two scenes differ?
 
 {{< div-with-class "reveal2">}}
 
@@ -125,7 +125,7 @@ It's the plane's engine that is appearing and disappearing. This shows just how 
 
 ### Attentional Blink
 
-While change blindness and inattentional blindness reveal the _spatial_ limitations of our attention (i.e., we can't focus on everything in our field of vision, and we often don't notice things that we're not attending to), attentional blink is a _temporal_ limitation. Follow [this link](http://psych.hanover.edu/javatest/cle/cognition/cognition/attentionalblink_instructions.html) to an experiment on attentional blink, in which you'll be able to manipulate some of the variables and see your results.
+While change blindness and inattentional blindness reveal the _spatial_ limitations of our attention (i.e., we can't focus on everything in our field of vision, and we often don't notice things that we're not attending to), attentional blink is a _temporal_ limitation. Follow {{% resource_link "b08da576-96eb-482f-bf66-311971132f7b" "this link" %}} to an experiment on attentional blink, in which you'll be able to manipulate some of the variables and see your results.
 
 The idea is that, with things that come rapidly in time, we tend not to notice something that happens shortly after something else happens. So, for example, if something happens, and then something happens immediately after, you're likely to notice it too, but if it happens slightly afterwards, you're likely to miss it. You're almost at chance for saying whether it happened or not. And then as things spread out in time you begin to notice them more and more.
 

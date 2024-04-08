@@ -121,7 +121,7 @@ CONTEXT
 Supplemental reading
 {{< tdclose >}}
 {{< tdopen >}}
-[An online version](http://psychclassics.yorku.ca/Thorndike/Animal/) of Thorndike, E. _Animal Intelligence: Experimental Studies_. The Macmillan Company, 1911. Accessed via "[Classics in the History of Psychology](http://psychclassics.yorku.ca/index.htm)" by C. Green.
+{{% resource_link "0ca464df-cad5-4357-86be-1b7832f91826" "An online version" %}} of Thorndike, E. _Animal Intelligence: Experimental Studies_. The Macmillan Company, 1911. Accessed via "{{% resource_link "5780e3fd-3255-4d11-80b4-db19a7836c55" "Classics in the History of Psychology" %}}" by C. Green.
 {{< tdclose >}}
 {{< tdopen >}}
 Book written by Thorndike touching on several topics discussed in lecture
@@ -133,7 +133,7 @@ Book written by Thorndike touching on several topics discussed in lecture
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 6 "Learning: How Experience Changes Us." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 6 "Learning: How Experience Changes Us." In {{% resource_link "d154b82d-6bf3-4c1e-a9f0-fbebf0f3676c" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

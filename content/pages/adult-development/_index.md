@@ -19,7 +19,7 @@ What happens to our bodies as we grow older? How do our brains change as we age?
 
 *Keywords*: adolescence, gerontology, risk, hippocampus
 
-*Photo courtesy of* [*colorblindPICASO*](http://www.flickr.com/photos/colorblindpicaso/2540688582) *on Flickr. CC-BY-NC.*
+*Photo courtesy of* {{% resource_link "75a3ec92-ff06-49f1-8448-969d39e1fb34" "*colorblindPICASO*" %}} *on Flickr. CC-BY-NC.*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -74,19 +74,19 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Video
 {{< tdclose >}}{{< tdopen >}}
-"[The Aging Brain](http://www.learnoutloud.com/Free-Audio-Video/Social-Sciences/Psychology/Charlie-Rose-The-Brain-Series/43487)," from Charlie Rose: The Brain Series with Scott Small, Larry Squire, Brenda Milner, Eric Kandel, and John Hardy.
+"{{% resource_link "7ae23c02-62a9-4390-90fa-6cb7c83e3f9a" "The Aging Brain" %}}," from Charlie Rose: The Brain Series with Scott Small, Larry Squire, Brenda Milner, Eric Kandel, and John Hardy.
 {{< tdclose >}}{{< tdopen >}}
 A panel discussion of aging in the brain hosted by Eric Kandel and the Howard Hughes Medical Institute
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Website (with video)
 {{< tdclose >}}{{< tdopen >}}
-"[The Teenage Brain](http://www.pbs.org/wgbh/pages/frontline/shows/teenbrain/)" from Frontline.
+"{{% resource_link "5a196802-1b45-4338-8098-5fb676a7234c" "The Teenage Brain" %}}" from Frontline.
 {{< tdclose >}}{{< tdopen >}}
 A *Frontline* episode about the teenage brain, as well as text explanations, interviews, and viewer comments
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Chapter 12, "Psychology of the Lifespan: Growing Up, Growing Older, Growing Wiser," in [Study Site for *Psychology in Context*, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
+Study materials for Chapter 12, "Psychology of the Lifespan: Growing Up, Growing Older, Growing Wiser," in {{% resource_link "d154b82d-6bf3-4c1e-a9f0-fbebf0f3676c" "Study Site for *Psychology in Context*, 3/e" %}} (Pearson Education, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
