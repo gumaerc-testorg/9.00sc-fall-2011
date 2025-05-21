@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the study outline for K&R chapter 13.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/4f3f0ab1b8f44d77afd2fd56d8e1d1b5_MIT9_00SCF11_read_kr13.pdf
+file_size: 229660
 file_type: application/pdf
 image_metadata:
   caption: ''

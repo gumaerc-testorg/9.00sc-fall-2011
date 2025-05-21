@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to learning.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/a7d978ec1b58fd1b1f52a442d807c40b_MIT9_00SCF11_lec09_learning.pdf
+file_size: 777406
 file_type: application/pdf
 image_metadata:
   caption: ''

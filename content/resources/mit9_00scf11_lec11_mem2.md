@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to memory II.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/49b47a331949f4fc37e9a61f17420ab4_MIT9_00SCF11_lec11_mem2.pdf
+file_size: 2146392
 file_type: application/pdf
 image_metadata:
   caption: ''

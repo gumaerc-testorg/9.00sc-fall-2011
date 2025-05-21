@@ -4,6 +4,7 @@ description: This resource contains solution to the problem set related to 2010 
   exam 3 questions.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/bba116faff125bb8de246752cc0eed9b_MIT9_00SCF11_exam3_2010sol.pdf
+file_size: 156353
 file_type: application/pdf
 image_metadata:
   caption: ''

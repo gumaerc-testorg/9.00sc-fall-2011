@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to memory I.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/70cf036a23528edafdc89c66b91ee198_MIT9_00SCF11_lec10_mem1.pdf
+file_size: 986401
 file_type: application/pdf
 image_metadata:
   caption: ''

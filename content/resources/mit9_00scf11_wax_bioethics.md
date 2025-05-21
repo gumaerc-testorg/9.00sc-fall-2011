@@ -4,6 +4,7 @@ description: This resource contains information related to "extra credit" writin
   assignments.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/1dba97541074d58c452f1cb091342198_MIT9_00SCF11_wax_bioethics.pdf
+file_size: 263415
 file_type: application/pdf
 image_metadata:
   caption: ''

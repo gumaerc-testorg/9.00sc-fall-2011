@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to consciousness.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/2211e2452a9bc47afce5b7a2179e4083_MIT9_00SCF11_lec08_consc.pdf
+file_size: 2941749
 file_type: application/pdf
 image_metadata:
   caption: ''

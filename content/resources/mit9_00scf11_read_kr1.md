@@ -4,6 +4,7 @@ description: 'This resource contains information related to introduction to the 
   of psychology: history and research methods.'
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/e37ac097cb76f26710cdc5ab47efa47a_MIT9_00SCF11_read_kr1.pdf
+file_size: 301632
 file_type: application/pdf
 image_metadata:
   caption: ''
