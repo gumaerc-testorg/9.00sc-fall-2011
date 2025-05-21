@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to vision II.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/2c0be37f63a42fb5feee3bc92c475535_MIT9_00SCF11_lec06_vis2.pdf
+file_size: 4440023
 file_type: application/pdf
 image_metadata:
   caption: ''

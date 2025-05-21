@@ -4,6 +4,7 @@ description: 'This resource contains information related to psychology over the 
   span: growing up, growing older, growing wiser.'
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/3d126a0f54a6443c15ac0677f614aeee_MIT9_00SCF11_read_kr9.pdf
+file_size: 311578
 file_type: application/pdf
 image_metadata:
   caption: ''

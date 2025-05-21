@@ -24,7 +24,7 @@ How important are first impressions? Do you ever make judgments about others? Do
 
 _Keywords_: social psychology, autism, false consensus, cognitive dissonance, first impressions, halo effect, self-serving attributional bias, cultural psychology, stereotypes
 
-_First impressions last longer than footprints in the sand. (Image by {{% resource_link "2b67ddf0-fb7f-4272-be19-d6dbd4c0bf22" "Tomorrow Never Knows" %}} on Flickr. License: CC-BY.)_
+_First impressions last longer than footprints in the sand. (Image by [Tomorrow Never Knows](http://www.flickr.com/photos/47803993@N08/) on Flickr. License: CC-BY.)_
 
 
 {{< tdclose >}}
@@ -96,7 +96,7 @@ CONTEXT
 Supplemental textbook
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "963c9cd5-1f86-4c6b-9332-6f5d78e2cb8f" "_Principles of Social Psychology_ (PDF - 6.5MB)" %}}
+[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
 {{< tdclose >}}
 {{< tdopen >}}
 Creative Commons-licensed online textbook
@@ -108,7 +108,7 @@ Creative Commons-licensed online textbook
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Chapter 16, "Social Psychology: Meeting of the Minds" in {{% resource_link "d154b82d-6bf3-4c1e-a9f0-fbebf0f3676c" "Study Site for _Psychology in Context_, 3/e" %}} (Pearson Education, 2007)
+Study materials for Chapter 16, "Social Psychology: Meeting of the Minds" in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg

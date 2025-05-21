@@ -43,7 +43,7 @@ There are no assigned readings for this session.
 > 
 > ### Video Resources
 > 
-> - {{% resource_link "3037765c-3b46-4cfb-8291-e431dabb70e6" "Subjective Happiness Scale (SHS) self-assessment" %}} (handout distributed during class)
+> - [Subjective Happiness Scale (SHS) self-assessment](https://ggsc.berkeley.edu/images/uploads/The_Subjective_Happiness_Scale.pdf) (handout distributed during class)
 > - {{% resource_link "71010302-8427-f017-f055-653147250c96" "Lecture Slides (PDF)" %}}
 
 ## Further Study
@@ -59,15 +59,15 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Supplemental reading
 {{< tdclose >}}{{< tdopen >}}
-Clark, R. D., III & E. Hatfield. "Gender Differences in Receptivity to Sexual Offers." *Journal of Psychology and Human Sexuality* 2 (1989): 39–55. ({{% resource_link "9890cf93-3a81-4edf-ae40-5b58c3750f5a" "PDF" %}})
+Clark, R. D., III & E. Hatfield. "Gender Differences in Receptivity to Sexual Offers." *Journal of Psychology and Human Sexuality* 2 (1989): 39–55. ([PDF](http://www2.hawaii.edu/~elaineh/79.pdf))
 {{< tdclose >}}{{< tdopen >}}
 Paper referenced in lecture video about womens' and mens' responses to three propositons (date, apartment, sex)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Supplemental video
 {{< tdclose >}}{{< tdopen >}}
-Dan Gilbert "{{% resource_link "48b715fc-3298-44e9-88ad-c8047a951f08" "The Surprising Science of Happiness" %}}" TED Talks, 2004. Accessed October 19, 2023. \[0:21:20\]
+Dan Gilbert "[The Surprising Science of Happiness](https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness)" TED Talks, 2004. Accessed October 19, 2023. \[0:21:20\]
 {{< tdclose >}}{{< tdopen >}}
-Talk by {{% resource_link "e2c18c8c-a874-43b4-9121-d27ead1d450e" "Prof. Daniel Gilbert" %}}, a leading researcher on happiness and affective forecasting
+Talk by [Prof. Daniel Gilbert](http://gilbert.socialpsychology.org/), a leading researcher on happiness and affective forecasting
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 « {{% resource_link "25a2c26c-7f10-9797-3af3-7971963c5415" "Previous" %}} | {{% resource_link "1a6a0f8c-ca91-9e83-c67f-a4ac0d656778" "Next" %}} »

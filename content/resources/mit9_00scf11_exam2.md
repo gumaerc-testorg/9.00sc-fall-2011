@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem set related to exam 1 problems.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/1cb6b9c6044bbc45708bac6ef370971a_MIT9_00SCF11_exam2.pdf
+file_size: 311615
 file_type: application/pdf
 image_metadata:
   caption: ''

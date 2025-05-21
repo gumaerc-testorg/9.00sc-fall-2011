@@ -24,7 +24,7 @@ How do we identify things in our environment? How are we able to perceive object
 
 _Keywords:_ agnosia, prognosia, perception, amygdale, facial recognition
 
-_Image courtesy of familymwr on Flickr. {{% resource_link "8f6d53bd-f196-4c10-b0c4-9bc6fbc0555f" "CC-BY" %}}._
+_Image courtesy of familymwr on Flickr. [CC-BY](http://creativecommons.org/licenses/by/2.0/deed.en)._
 
 
 {{< tdclose >}}
@@ -100,7 +100,7 @@ CONTEXT
 Podcast
 {{< tdclose >}}
 {{< tdopen >}}
-"{{% resource_link "2964d0fc-b82e-4a8f-a709-51f2c61e1d08" "Strangers in the Mirror" %}}" on {{% resource_link "21e0b565-cb6f-40d7-a454-60f62f2e87f2" "Radiolab" %}}. Hosted by Robert Krulwich, with guests Oliver Sacks and Chuck Close. Uploaded Tuesday, June 15, 2010.
+"[Strangers in the Mirror](http://www.radiolab.org/blogs/radiolab-blog/2010/jun/15/strangers-in-the-mirror/)" on [Radiolab](http://www.radiolab.org/). Hosted by Robert Krulwich, with guests Oliver Sacks and Chuck Close. Uploaded Tuesday, June 15, 2010.
 {{< tdclose >}}
 {{< tdopen >}}
 An interview Oliver Sacks, a neuroscientist, and Chuck Close, an artist, both of whom have face blindness.
@@ -112,7 +112,7 @@ An interview Oliver Sacks, a neuroscientist, and Chuck Close, an artist, both of
 Website
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "4661d5c4-3845-449d-8bde-653a83d0b570" "TarrLab" %}}
+[TarrLab](http://tarrlab.cnbc.cmu.edu/)
 {{< tdclose >}}
 {{< tdopen >}}
 A Carnegie Mellon University lab headed by Mike Tarr that focuses on visual perception and how humans process, recognize, and remember objects and faces.
@@ -124,7 +124,7 @@ A Carnegie Mellon University lab headed by Mike Tarr that focuses on visual perc
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Chapter 3, "Psychology Sensation and Perception: How the World Enters the Mind," in {{% resource_link "d154b82d-6bf3-4c1e-a9f0-fbebf0f3676c" "Study Site for _Psychology in Context_" %}}, 3/e (Pearson Education, 2007)
+Study materials for Chapter 3, "Psychology Sensation and Perception: How the World Enters the Mind," in [Study Site for _Psychology in Context_](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page), 3/e (Pearson Education, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg

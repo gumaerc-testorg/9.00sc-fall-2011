@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/6292739ab7b4d1795af628632e6d04eb_9.00screengrab.jpg
+file_size: 46572
 file_type: image/jpeg
 image_metadata:
   caption: Prof. Gabrieli explains his insights on teaching introductory psychology.

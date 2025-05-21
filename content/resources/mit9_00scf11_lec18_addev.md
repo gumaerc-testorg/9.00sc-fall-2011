@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to adult development.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/bc490b431cb6de0f2a860db277718f38_MIT9_00SCF11_lec18_AdDev.pdf
+file_size: 4770587
 file_type: application/pdf
 image_metadata:
   caption: ''

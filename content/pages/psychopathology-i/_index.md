@@ -24,7 +24,7 @@ What is psychopathology? Why is psychopathology important? During this lesson, w
 
 _Keywords_: psychopathology, mental disorders, Tourette's, schizophrenia, antipsychotic medication, diagnosis, lobotomy, genetic predispositions, dopamine
 
-_An embroidered cloth made by a patient diagnosed with schizophrenia. (Image by {{% resource_link "ec1ffc50-a46c-4a67-b0bf-cc09a41cf7a6" "cometstarmoon" %}} on Flickr. License: CC-BY.)_
+_An embroidered cloth made by a patient diagnosed with schizophrenia. (Image by [cometstarmoon](http://www.flickr.com/photos/calistan/) on Flickr. License: CC-BY.)_
 
 
 {{< tdclose >}}
@@ -114,7 +114,7 @@ CONTEXT
 Web resource
 {{< tdclose >}}
 {{< tdopen >}}
-National Institute of Mental Health's {{% resource_link "767fdd8d-cbac-484f-82e6-eea994db72bf" "page on schizophrenia" %}}
+National Institute of Mental Health's [page on schizophrenia](http://www.nimh.nih.gov/health/publications/schizophrenia/index.shtml)
 {{< tdclose >}}
 {{< tdopen >}}
 Includes a description of the symptoms, causes, and treatments of schizophrenia
@@ -126,7 +126,7 @@ Includes a description of the symptoms, causes, and treatments of schizophrenia
 Web resource
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "ad61e332-b29a-495f-aeed-5b7eda73c238" "PubMed Health Medical Encyclopedia" %}}, by the U.S. National Library of Medicine
+[PubMed Health Medical Encyclopedia](https://www.ncbi.nlm.nih.gov/pubmed/), by the U.S. National Library of Medicine
 {{< tdclose >}}
 {{< tdopen >}}
 Good medical diagnostic and background information, including mental disorders
@@ -138,7 +138,7 @@ Good medical diagnostic and background information, including mental disorders
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 14, "Psychological Disorders: More Than Everyday Problems." In {{% resource_link "d154b82d-6bf3-4c1e-a9f0-fbebf0f3676c" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
+Study materials for Ch. 14, "Psychological Disorders: More Than Everyday Problems." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook
