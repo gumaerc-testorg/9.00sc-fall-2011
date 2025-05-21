@@ -24,7 +24,7 @@ What is social psychology? What is the relationship between attitude and behavio
 
 _Keywords_: dispositional versus situational attribution, cognitive busyness, Stanford Prison Experiment, Milgram Obedience Experiment, Pfc. England, conformity, compliance, obedience, the bystander effect
 
-_A crowd demonstrating a wide range of social behavior. (Image by {{% resource_link "5ca60c96-9216-4580-bc91-e5fec886c486" "Sreejith K" %}} on Flickr. License: CC-BY.)_
+_A crowd demonstrating a wide range of social behavior. (Image by [Sreejith K](http://www.flickr.com/people/57441548@N00) on Flickr. License: CC-BY.)_
 
 
 {{< tdclose >}}
@@ -108,7 +108,7 @@ CONTEXT
 Supplemental textbook
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "963c9cd5-1f86-4c6b-9332-6f5d78e2cb8f" "_Principles of Social Psychology_ (PDF - 6.5MB)" %}}
+[_Principles of Social Psychology_ (PDF - 6.5MB)](http://www.saylor.org/site/textbooks/Principles%20of%20Social%20Psychology.pdf)
 {{< tdclose >}}
 {{< tdopen >}}
 Creative Commons-licensed online textbook
@@ -120,7 +120,7 @@ Creative Commons-licensed online textbook
 Interactive map
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "7595788f-5db0-4741-84a0-4f310fe55bfc" "World Map of Hofstede's Individualism Scores" %}}
+[World Map of Hofstede's Individualism Scores](https://www.hofstede-insights.com/product/compare-countries/)
 {{< tdclose >}}
 {{< tdopen >}}
 Interactive map showing worldwide individualism scores mentioned in lecture
@@ -132,7 +132,7 @@ Interactive map showing worldwide individualism scores mentioned in lecture
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Chapter 16, "Social Psychology: Meeting of the Minds" in {{% resource_link "d154b82d-6bf3-4c1e-a9f0-fbebf0f3676c" "Study Site for _Psychology in Context_, 3/e" %}} (Pearson Education, 2007)
+Study materials for Chapter 16, "Social Psychology: Meeting of the Minds" in [Study Site for _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson Education, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook by Kosslyn & Rosenberg

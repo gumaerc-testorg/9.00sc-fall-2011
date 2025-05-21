@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/3960f2b6b8e2efbd0c1b78b10658e674_lec24_chp.jpg
+file_size: 7823
 file_type: image/jpeg
 image_metadata:
   caption: ''
