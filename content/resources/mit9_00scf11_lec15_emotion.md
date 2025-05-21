@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to emotion & motivation.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/c28dae58ca9ba42edc6feeceda51feae_MIT9_00SCF11_lec15_Emotion.pdf
+file_size: 4863807
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -19,7 +19,7 @@ How good is your memory? What different types of memory do we have? What kind of
 
 *Keywords:* memory, flashbulb memories, short and long term memory, proactive and retroactive interference, Ebbinghaus's curve of forgetting, mnemonist
 
-*Image by* {{% resource_link "8d65d609-f715-4d50-8611-e4cf9d42105e" "*Andrew B47*" %}} *on Flickr.*
+*Image by* [*Andrew B47*](http://www.flickr.com/photos/andrewb47/) *on Flickr.*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -68,15 +68,15 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Podcast
 {{< tdclose >}}{{< tdopen >}}
-Audio podcast: "{{% resource_link "46c00f7c-4e04-44a5-ab13-619b4d57bc93" "Limits of the Mind" %}}." From "Limits," {{% resource_link "07e5c6f6-dc83-42cc-a8d3-f2a3548b0ee1" "*Radiolab*" %}} season 7, episode 3 (2010).
+Audio podcast: "[Limits of the Mind](http://www.radiolab.org/2010/apr/05/limits-of-the-mind/)." From "Limits," [*Radiolab*](http://www.radiolab.org) season 7, episode 3 (2010).
 {{< tdclose >}}{{< tdopen >}}
 19 minute segment on the limits of human memory, including more on the case of mnemonist "S" studied by A. R. Luria (as discussed in this lecture).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Article
 {{< tdclose >}}{{< tdopen >}}
-Trafton, A. "{{% resource_link "1a170d6f-31a7-4ccb-b68b-c797c77cdb70" "3 Questions: John Gabrieli on studying traumatic memories" %}}." MIT News Office, Sept. 9, 2011.
+Trafton, A. "[3 Questions: John Gabrieli on studying traumatic memories](http://web.mit.edu/newsoffice/2011/3q-gabrielli-sept-11-0909.html)." MIT News Office, Sept. 9, 2011.
 {{< tdclose >}}{{< tdopen >}}
-Prof. Gabrieli discusses a {{% resource_link "e30747dc-f833-40bc-96d8-ffda0c104936" "large-scale study" %}} on how people remember the 9/11 attacks, and what that tells us about memories of emotionally significant events.
+Prof. Gabrieli discusses a [large-scale study](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2925254/?tool=pubmed) on how people remember the 9/11 attacks, and what that tells us about memories of emotionally significant events.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Assignment
 {{< tdclose >}}{{< tdopen >}}

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to social psychology.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/17bb1e442ad698a10e613e571624698d_MIT9_00SCF11_lec23_socpsy2.pdf
+file_size: 1592842
 file_type: application/pdf
 image_metadata:
   caption: ''

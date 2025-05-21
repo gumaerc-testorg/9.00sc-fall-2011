@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to introduction to psychology.
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/568e0d32a2401684b5daca281261f210_MIT9_00SCF11_lec01.pdf
+file_size: 653244
 file_type: application/pdf
 image_metadata:
   caption: ''

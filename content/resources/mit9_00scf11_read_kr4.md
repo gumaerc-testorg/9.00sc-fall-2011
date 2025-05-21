@@ -4,6 +4,7 @@ description: "This resource contains information related to kosslyn chapter 4 \u
   \ learning: how the experience changes us."
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/33a99595e42e8173c80509553eb52a8c_MIT9_00SCF11_read_kr4.pdf
+file_size: 252267
 file_type: application/pdf
 image_metadata:
   caption: ''

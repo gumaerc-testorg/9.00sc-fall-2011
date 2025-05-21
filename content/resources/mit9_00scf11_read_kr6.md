@@ -4,6 +4,7 @@ description: 'This resource contains information related to language, thinking, 
   intelligence: what humans do best.'
 draft: false
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/ec89945b5f566b6f45caf926f53b1343_MIT9_00SCF11_read_kr6.pdf
+file_size: 387624
 file_type: application/pdf
 image_metadata:
   caption: ''

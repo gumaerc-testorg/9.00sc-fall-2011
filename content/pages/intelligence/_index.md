@@ -24,7 +24,7 @@ How much is intelligence determined by our childhood environment vs. our genetic
 
 _Keywords_: IQ, testing, education, Flynn effect, nature vs. nurture, acheivement gap, stereotype threat, Head Start
 
-_How well do standardized tests measure intelligence? (Photo courtesy of {{% resource_link "e76170dd-45a9-484a-8c1b-633b95e9e744" "biologycorner" %}} on Flickr. License CC BY-NC.)_
+_How well do standardized tests measure intelligence? (Photo courtesy of [biologycorner](http://www.flickr.com/photos/40964293@N07/4728093020) on Flickr. License CC BY-NC.)_
 
 
 {{< tdclose >}}
@@ -145,7 +145,7 @@ CONTEXT
 Supplemental video
 {{< tdclose >}}
 {{< tdopen >}}
-jayrandall22011. "Talking Twin Babies – Part 2." Feb. 14, 2011. YouTube. Accessed Jan. 9, 2012. {{% resource_link "82afec29-7c5f-4384-a5a8-711f73c267e6" "http://www.youtube.com/watch?v=\_JmA2ClUvUY" %}}
+jayrandall22011. "Talking Twin Babies – Part 2." Feb. 14, 2011. YouTube. Accessed Jan. 9, 2012. [http://www.youtube.com/watch?v=\_JmA2ClUvUY](http://www.youtube.com/watch?v=_JmA2ClUvUY)
 {{< tdclose >}}
 {{< tdopen >}}
 Mentioned at about minute 36 in lecture – "two twins babbling, demonstrative…"
@@ -157,7 +157,7 @@ Mentioned at about minute 36 in lecture – "two twins babbling, demonstrative�
 Supplemental video
 {{< tdclose >}}
 {{< tdopen >}}
-StanfordSCOPE. "Claude Steele on Stereotype Threat." Nov. 23, 2011. YouTube. Accessed March 9, 2012. {{% resource_link "3f11fad8-c585-4a98-90ed-e2f844758a3b" "http://www.youtube.com/watch?v=vvwvvbiwRkg" %}}
+StanfordSCOPE. "Claude Steele on Stereotype Threat." Nov. 23, 2011. YouTube. Accessed March 9, 2012. [http://www.youtube.com/watch?v=vvwvvbiwRkg](http://www.youtube.com/watch?v=vvwvvbiwRkg)
 {{< tdclose >}}
 {{< tdopen >}}
 Brief interview with Prof. Steele, whose research first identified the stereotype threat effect on acheivement gaps.
@@ -169,7 +169,7 @@ Brief interview with Prof. Steele, whose research first identified the stereotyp
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 9 "Types of Intelligence: What Does It Mean To Be Smart?" In {{% resource_link "d154b82d-6bf3-4c1e-a9f0-fbebf0f3676c" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
+Study materials for Ch. 9 "Types of Intelligence: What Does It Mean To Be Smart?" In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook
