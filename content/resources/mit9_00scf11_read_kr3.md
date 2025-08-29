@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to sensation and perception:
   how the world enters the mind.'
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/1fad72069961bd957888249ee39494d2_MIT9_00SCF11_read_kr3.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/1fad72069961bd957888249ee39494d2_MIT9_00SCF11_read_kr3.pdf
 file_size: 276548
 file_type: application/pdf
 image_metadata:

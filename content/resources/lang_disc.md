@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a MP3 file for language.
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/d5adcb19ef26a39e2de7c3a6ec704258_lang_disc.mp3
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/d5adcb19ef26a39e2de7c3a6ec704258_lang_disc.mp3
 file_size: 528052
 file_type: audio/mpeg
 image_metadata:

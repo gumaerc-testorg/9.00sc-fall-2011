@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to brain I.
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/d152a8ad15228393cc7cba38353a6954_MIT9_00SCF11_lec03_brain1.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/d152a8ad15228393cc7cba38353a6954_MIT9_00SCF11_lec03_brain1.pdf
 file_size: 6008664
 file_type: application/pdf
 image_metadata:
