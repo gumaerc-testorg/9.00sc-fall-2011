@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource is a MP3 file for memory. '
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/78eb6844c285f61a92d8ca230ed5bbf7_memory_disc_2.mp3
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/78eb6844c285f61a92d8ca230ed5bbf7_memory_disc_2.mp3
 file_size: 848313
 file_type: audio/mpeg
 image_metadata:

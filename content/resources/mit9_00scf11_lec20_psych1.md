@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to psychopathology I.
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/5025a76381ca602da7a7dc63067d64e9_MIT9_00SCF11_lec20_psych1.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/5025a76381ca602da7a7dc63067d64e9_MIT9_00SCF11_lec20_psych1.pdf
 file_size: 1641065
 file_type: application/pdf
 image_metadata:
