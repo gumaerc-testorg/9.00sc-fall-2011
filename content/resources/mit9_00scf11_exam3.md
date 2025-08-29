@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to final exam.
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/bc7dda4dda81d7bc3c7151a1f503a77d_MIT9_00SCF11_exam3.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/bc7dda4dda81d7bc3c7151a1f503a77d_MIT9_00SCF11_exam3.pdf
 file_size: 183388
 file_type: application/pdf
 image_metadata:

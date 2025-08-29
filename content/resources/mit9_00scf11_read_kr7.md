@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to study outline for K&R chapter
   7.
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/346b32b91187cd488571d14bfc942eab_MIT9_00SCF11_read_kr7.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/346b32b91187cd488571d14bfc942eab_MIT9_00SCF11_read_kr7.pdf
 file_size: 253522
 file_type: application/pdf
 image_metadata:

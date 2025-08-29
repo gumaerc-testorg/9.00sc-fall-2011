@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solution to the problem set related to exam 1.
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/2aa4e53319de1efd3e82b755b5af6201_MIT9_00SCF11_exam1_sol.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/2aa4e53319de1efd3e82b755b5af6201_MIT9_00SCF11_exam1_sol.pdf
 file_size: 195863
 file_type: application/pdf
 image_metadata:

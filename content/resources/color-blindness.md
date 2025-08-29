@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/8cb55770af656f2ab3791779368e88cb_Color-Blindness.jpg
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/8cb55770af656f2ab3791779368e88cb_Color-Blindness.jpg
 file_size: 31203
 file_type: image/jpeg
 image_metadata:

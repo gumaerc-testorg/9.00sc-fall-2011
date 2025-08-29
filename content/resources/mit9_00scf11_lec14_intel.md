@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to intelligence.
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/5d08a22319ff91329ff39bc9dfcae172_MIT9_00SCF11_lec14_intel.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/5d08a22319ff91329ff39bc9dfcae172_MIT9_00SCF11_lec14_intel.pdf
 file_size: 2095701
 file_type: application/pdf
 image_metadata:

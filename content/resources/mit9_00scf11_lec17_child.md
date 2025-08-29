@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to child development.
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/03f8c32cb1c8d2dffd0b51375fc0b389_MIT9_00SCF11_lec17_child.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/03f8c32cb1c8d2dffd0b51375fc0b389_MIT9_00SCF11_lec17_child.pdf
 file_size: 932746
 file_type: application/pdf
 image_metadata:

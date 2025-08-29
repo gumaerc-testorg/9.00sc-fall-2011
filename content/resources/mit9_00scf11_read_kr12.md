@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to treatment: healing actions,
   healing words.'
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/20365c6d91a9c142362e31bf28a8d7ea_MIT9_00SCF11_read_kr12.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/20365c6d91a9c142362e31bf28a8d7ea_MIT9_00SCF11_read_kr12.pdf
 file_size: 240759
 file_type: application/pdf
 image_metadata:

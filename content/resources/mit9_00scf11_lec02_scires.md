@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to science & research.
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/5ff7eb6785f0575799a65af146ea17d2_MIT9_00SCF11_lec02_scires.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/5ff7eb6785f0575799a65af146ea17d2_MIT9_00SCF11_lec02_scires.pdf
 file_size: 743757
 file_type: application/pdf
 image_metadata:

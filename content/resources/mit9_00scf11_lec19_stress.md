@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to stress.
 draft: false
-file: /courses/9-00sc-introduction-to-psychology-fall-2011/2770e445a4774d40b46be241a6909f14_MIT9_00SCF11_lec19_stress.pdf
+file: /ol-ocw-studio-app/courses/9-00sc-introduction-to-psychology-fall-2011/2770e445a4774d40b46be241a6909f14_MIT9_00SCF11_lec19_stress.pdf
 file_size: 1879607
 file_type: application/pdf
 image_metadata:
