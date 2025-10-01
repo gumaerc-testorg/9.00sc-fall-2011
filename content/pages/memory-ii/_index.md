@@ -95,13 +95,13 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Supplemental reading
 {{< tdclose >}}{{< tdopen >}}
-Sacks, Oliver. ["The Abyss: Music and Amnesia."](http://www.newyorker.com/reporting/2007/09/24/070924fa_fact_sacks) The New Yorker, 2007.
+Sacks, Oliver. {{% resource_link "0469a476-6115-4ab8-9073-ca5a6f786961" "\"The Abyss: Music and Amnesia.\"" %}} The New Yorker, 2007.
 {{< tdclose >}}{{< tdopen >}}
 An article by Oliver Sacks about an individual with retrograde amnesia and his wife.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Blog post
 {{< tdclose >}}{{< tdopen >}}
-Neurophilosophy blogger. ["Amnesia in the movies."](http://scienceblogs.com/neurophilosophy/2009/03/02/amnesia-in-the-movies/) Scienceblogs.com, 2009.
+Neurophilosophy blogger. {{% resource_link "8ee96c7a-310c-4baa-9043-1bb54ba9e5be" "\"Amnesia in the movies.\"" %}} Scienceblogs.com, 2009.
 {{< tdclose >}}{{< tdopen >}}
 Prof. Gabrieli talks about how inaccurate most portrayals of amnesia in popular media are; this article gives some examples of movies that get it right.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
