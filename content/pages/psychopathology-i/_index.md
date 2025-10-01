@@ -24,7 +24,7 @@ What is psychopathology? Why is psychopathology important? During this lesson, w
 
 _Keywords_: psychopathology, mental disorders, Tourette's, schizophrenia, antipsychotic medication, diagnosis, lobotomy, genetic predispositions, dopamine
 
-_An embroidered cloth made by a patient diagnosed with schizophrenia. (Image by [cometstarmoon](http://www.flickr.com/photos/calistan/) on Flickr. License: CC-BY.)_
+_An embroidered cloth made by a patient diagnosed with schizophrenia. (Image by {{% resource_link "9fb0e6b4-b406-4750-b46f-6775aa75eca1" "cometstarmoon" %}} on Flickr. License: CC-BY.)_
 
 
 {{< tdclose >}}
@@ -114,7 +114,7 @@ CONTEXT
 Web resource
 {{< tdclose >}}
 {{< tdopen >}}
-National Institute of Mental Health's [page on schizophrenia](http://www.nimh.nih.gov/health/publications/schizophrenia/index.shtml)
+National Institute of Mental Health's {{% resource_link "1ea059a3-cb05-4016-96bc-7c3a334e963a" "page on schizophrenia" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Includes a description of the symptoms, causes, and treatments of schizophrenia
@@ -126,7 +126,7 @@ Includes a description of the symptoms, causes, and treatments of schizophrenia
 Web resource
 {{< tdclose >}}
 {{< tdopen >}}
-[PubMed Health Medical Encyclopedia](https://www.ncbi.nlm.nih.gov/pubmed/), by the U.S. National Library of Medicine
+{{% resource_link "d51d0b4d-8e58-41a4-a1d7-124d8a6b033f" "PubMed Health Medical Encyclopedia" %}}, by the U.S. National Library of Medicine
 {{< tdclose >}}
 {{< tdopen >}}
 Good medical diagnostic and background information, including mental disorders
@@ -138,7 +138,7 @@ Good medical diagnostic and background information, including mental disorders
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 14, "Psychological Disorders: More Than Everyday Problems." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 14, "Psychological Disorders: More Than Everyday Problems." In {{% resource_link "90d8bbe3-9c5a-4d07-9e6c-a9f1252c0c50" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

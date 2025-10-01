@@ -24,7 +24,7 @@ What can happen if the connection between the brain and the visual system is dis
 
 _Keywords_: blindsight, neglect, attention, extinction, visuospatial agnosia, hemispatial neglect, anosagnosia, right and left inattentive, parietal cortex, temporal cortex, representational theory, M. Posner.
 
-_Image courtesy of [NASA Goddard Photo and Video](http://www.flickr.com/photos/24662369@N07/6760135001) under a CC-BY license._
+_Image courtesy of {{% resource_link "f1ae2377-c91a-4f88-9dd4-b989fa4610ec" "NASA Goddard Photo and Video" %}} under a CC-BY license._
 
 
 {{< tdclose >}}
@@ -90,7 +90,7 @@ CONTEXT
 Further reading
 {{< tdclose >}}
 {{< tdopen >}}
-de Gelder, Beatrice. "Uncanny Sight in the Blind." Scientific American, 2010. ([PDF](http://beatricedegelder.com/documents/Uncannysightintheblind.pdf))
+de Gelder, Beatrice. "Uncanny Sight in the Blind." Scientific American, 2010. ({{% resource_link "7b7e35cf-52b1-4fc9-a5f2-7d17390666f8" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Article discussing a patient Prof. Gabrieli goes over in lecture
@@ -102,7 +102,7 @@ Article discussing a patient Prof. Gabrieli goes over in lecture
 Video
 {{< tdclose >}}
 {{< tdopen >}}
-["A Blind Monkey Who Sees Everything."](http://www.youtube.com/all_comments?v=rDIsxwQHwt8) Filmed by Nicholas Humphrey, Cambridge, 1971.
+{{% resource_link "71d35128-1dc4-4b27-b2c3-0a14af04aacc" "\"A Blind Monkey Who Sees Everything.\"" %}} Filmed by Nicholas Humphrey, Cambridge, 1971.
 {{< tdclose >}}
 {{< tdopen >}}
 A 1971 movie of Helen, a blind monkey circumnavigating obstacles
