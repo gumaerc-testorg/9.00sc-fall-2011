@@ -58,7 +58,7 @@ This textbook is used by students enrolled in the class at MIT. It presents a la
 While OCW cannot provide online access to this book, we do present for each class session:
 
 - Study outlines of each chapter prepared by one of the course TAs.
-- "Further Study" links to [supplemental study materials](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) for a related textbook by the same authors.
+- "Further Study" links to {{% resource_link "90d8bbe3-9c5a-4d07-9e6c-a9f1252c0c50" "supplemental study materials" %}} for a related textbook by the same authors.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{< anchor "_Stangor_" >}}{{< /anchor >}}\[Stangor\] = Stangor, Charles. [_Introduction to Psychology_ (PDF - 14.0MB)](/ans7870/9/9.00SC/MIT9_00SCF11_text.pdf). 2010. (Courtesy of Charles Stangor and the Saylor Foundation.)

@@ -100,31 +100,31 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Video
 {{< tdclose >}}{{< tdopen >}}
-"[Correlation and Causation](http://www.khanacademy.org/video/correlation-and-causality?playlist=Statistics)." Kahn Academy.
+"{{% resource_link "adfb104d-2ed1-4b82-9ee3-7633784f62ee" "Correlation and Causation" %}}." Kahn Academy.
 {{< tdclose >}}{{< tdopen >}}
 Good background on this fundamental concept in scientfic research
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Blog
 {{< tdclose >}}{{< tdopen >}}
-[Bad Science](http://www.badscience.net/)
+{{% resource_link "6af54fc3-4225-435c-b970-851c6180f9a6" "Bad Science" %}}
 {{< tdclose >}}{{< tdopen >}}
 Dr. Ben Goldacre, epidemiolgist and columnist for the Guardian UK, examines "bad science \[as the\] best way to explain good science."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Blog
 {{< tdclose >}}{{< tdopen >}}
-[Neuroskeptic](http://neuroskeptic.blogspot.com/)
+{{% resource_link "728cfcdb-d3c4-4b1f-83b4-03a4857bea7b" "Neuroskeptic" %}}
 {{< tdclose >}}{{< tdopen >}}
 "A neuroscientist takes a skeptical look at his own field, and beyond."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Web activity
 {{< tdclose >}}{{< tdopen >}}
-[Research Methods: From Question to Conclusion](https://www.learner.org/series/discovering-psychology/understanding-research/). *Discovering Psychology.* WGBH Educational Foundation, 2001.
+{{% resource_link "f0c6428e-e548-4fca-8741-56dc76193f1e" "Research Methods: From Question to Conclusion" %}}. *Discovering Psychology.* WGBH Educational Foundation, 2001.
 {{< tdclose >}}{{< tdopen >}}
 Interactive quiz about how psychological research is conducted.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Chapter 1, "Psychology: Yesterday and Today." In [Kosslyn & Rosenberg, *Psychology in Context*, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Chapter 1, "Psychology: Yesterday and Today." In {{% resource_link "90d8bbe3-9c5a-4d07-9e6c-a9f1252c0c50" "Kosslyn & Rosenberg, *Psychology in Context*, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

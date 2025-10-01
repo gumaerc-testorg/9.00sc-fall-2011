@@ -24,7 +24,7 @@ How do we make decisions about the situations we experience every day? In this s
 
 _Keywords:_ thinking, functional fixedness, heuristics, anchoring, adjustment, framing, frontal lobes, risk taking, psychopathology
 
-_Image courtesy of [marttj](http://www.flickr.com/photos/tmartin/71654890) on Flickr._
+_Image courtesy of {{% resource_link "47c7c028-3735-43c5-80a3-9bc88c2a3626" "marttj" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -62,7 +62,7 @@ Read the following before watching the lecture video.
 > ### Video Resources
 > 
 > *   Clips removed from lecture video due to copyright restrictions:
->     *   Two segments, "Math Problems" and "Square Feet?", from _Candid Camera Classics for Introductory Psychology_. DVD/VHS. Candid Camera, Inc., and McGraw Hill. 1993. \[Find in a library via [WorldCat](http://www.worldcat.org/oclc/22542876)\]
+>     *   Two segments, "Math Problems" and "Square Feet?", from _Candid Camera Classics for Introductory Psychology_. DVD/VHS. Candid Camera, Inc., and McGraw Hill. 1993. \[Find in a library via {{% resource_link "d29e3739-0d2b-4408-83eb-3b3c1c5a4d06" "WorldCat" %}}\]
 > *   {{% resource_link 7da18b22-e745-677e-ae11-5a50e3a89179 "Lecture Slides (PDF - 1.3MB)" %}}
 
 Discussion
@@ -141,7 +141,7 @@ CONTEXT
 Supplemental reading
 {{< tdclose >}}
 {{< tdopen >}}
-Seabrook, John. "[Suffering Souls](http://www.newyorker.com/reporting/2008/11/10/081110fa_fact_seabrook)." _The New Yorker_, November 10, 2008.
+Seabrook, John. "{{% resource_link "c844ab36-f40e-433e-8bf5-2d83e4b96ec6" "Suffering Souls" %}}." _The New Yorker_, November 10, 2008.
 {{< tdclose >}}
 {{< tdopen >}}
 Story about Dr. Kent Kiehl, mentioned by Prof. Gabrieli at the end of lecture. Dr. Kiehl is a studying psychopathy with a a truck-mounted MRI scanner that he brings into prisons.
@@ -153,7 +153,7 @@ Story about Dr. Kent Kiehl, mentioned by Prof. Gabrieli at the end of lecture. D
 Related research
 {{< tdclose >}}
 {{< tdopen >}}
-Delude, C. M. "[_Culture influences brain function, study shows_](http://web.mit.edu/newsoffice/2008/psychology-0111.html)." _MIT News_, Jan. 11 2008.
+Delude, C. M. "{{% resource_link "c0b4c83e-131b-4294-8fe0-8883c2f496a4" "_Culture influences brain function, study shows_" %}}." _MIT News_, Jan. 11 2008.
 {{< tdclose >}}
 {{< tdopen >}}
 Short news article about research led by Prof. Gabrieli, which identified cultural influences on making quick judgements.
@@ -165,7 +165,7 @@ Short news article about research led by Prof. Gabrieli, which identified cultur
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 8 "Language and Thinking: What Humans Do Best." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 8 "Language and Thinking: What Humans Do Best." In {{% resource_link "90d8bbe3-9c5a-4d07-9e6c-a9f1252c0c50" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook

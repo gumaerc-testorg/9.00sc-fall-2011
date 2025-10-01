@@ -15,6 +15,6 @@ uid: e5e0f752-c915-574a-901a-55e9ab3221b8
 Removed Clip 1: "Social Referencing: The Visual Cliff Study"
 ------------------------------------------------------------
 
-In class, Prof. Gabrieli played an excerpt from "Social Referencing: The Visual Cliff Study"; Episode 7 in [Mind in the Making: Experiments in Children's Learning](https://www.mindinthemaking.org/).
+In class, Prof. Gabrieli played an excerpt from "Social Referencing: The Visual Cliff Study"; Episode 7 in {{% resource_link "243f42c3-6f0b-4dd4-af6a-e3c463299b0e" "Mind in the Making: Experiments in Children's Learning" %}}.
 
 « {{% resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Previous" %}}
