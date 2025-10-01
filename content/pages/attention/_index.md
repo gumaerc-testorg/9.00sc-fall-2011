@@ -24,7 +24,7 @@ Do you ever get distracted when you are supposed to be focused? Why do we pay at
 
 _Keywords_: attention, Stroop effect, hypnosis, top-down, bottom-up, attentional blink, multiple object tracking, subliminal perception, cocktail party effect
 
-_Image by [miamism](http://www.flickr.com/photos/miamism/) on Flickr._
+_Image by {{% resource_link "122d146f-d387-4740-89b2-788bfef0f341" "miamism" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -113,7 +113,7 @@ CONTEXT
 Additional reading
 {{< tdclose >}}
 {{< tdopen >}}
-Cherry, E. "Some Experiments on the Recognition of Speech, with One and with Two Ears." _The Journal of the Acoustical Society of America_ 25, no. 5 (1953). ([PDF - 1.4MB](http://www.ee.columbia.edu/~dpwe/papers/Cherry53-cpe.pdf))
+Cherry, E. "Some Experiments on the Recognition of Speech, with One and with Two Ears." _The Journal of the Acoustical Society of America_ 25, no. 5 (1953). ({{% resource_link "b4299835-b86e-4f08-b47b-fdefc8d1a84e" "PDF - 1.4MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 E. Colin Cherry's original 1953 selective attention experiment. The study describes an experiment involving dichotic listening, a demonstration of which was performed during lecture but removed for privacy reasons.
@@ -125,7 +125,7 @@ E. Colin Cherry's original 1953 selective attention experiment. The study descri
 Textbook supplement
 {{< tdclose >}}
 {{< tdopen >}}
-Study materials for Ch. 4, "Sensation and Perception: How the World Enters the Mind." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 4, "Sensation and Perception: How the World Enters the Mind." In {{% resource_link "90d8bbe3-9c5a-4d07-9e6c-a9f1252c0c50" "Kosslyn & Rosenberg, _Psychology in Context_, 3/e" %}} (Pearson, 2007)
 {{< tdclose >}}
 {{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook
